@@ -1,0 +1,20 @@
+[01:24:35] [User Authenticator #1/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[01:24:35] [Server thread/INFO]: ClayGamer01[/192.168.1.15:52424] logged in with entity id 156 at (-292.18606596264385, 83.0, 205.76249998807907)
+[01:24:35] [Server thread/INFO]: ClayGamer01 joined the game
+[02:27:30] [Server thread/INFO]: [ClayGamer01: Set the weather to rain]
+[02:41:20] [Server thread/INFO]: [ClayGamer01: Set the weather to rain]
+[03:13:46] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[03:13:46] [Server thread/INFO]: ClayGamer01 left the game
+[03:13:51] [Server thread/INFO]: Stopping the server
+[03:13:51] [Server thread/INFO]: Stopping server
+[03:13:51] [Server thread/INFO]: Saving players
+[03:13:51] [Server thread/INFO]: Saving worlds
+[03:13:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:13:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:13:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:13:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:13:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:13:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:13:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:13:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:13:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

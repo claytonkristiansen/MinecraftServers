@@ -1,0 +1,6 @@
+2020-11-13 15:50:33,118 - amulet_map_editor - INFO - Could not find loader for C:\Users\Clayt\AppData\Roaming\.minecraft\saves\##New World.UNDO## Could not find a matching format for C:\Users\Clayt\AppData\Roaming\.minecraft\saves\##New World.UNDO##
+2020-11-13 15:50:36,270 - amulet_map_editor - INFO - Creating texture atlas
+2020-11-13 15:50:36,535 - amulet_map_editor - INFO - Trying to pack textures into image of size 2048x2048
+2020-11-13 15:50:36,940 - amulet_map_editor - INFO - Successfully packed textures into an image of size 2048x2048
+2020-11-13 15:50:36,970 - amulet_map_editor - INFO - Finished creating texture atlas
+2020-11-13 15:50:36,984 - amulet_map_editor - INFO - Finished setting up texture atlas in OpenGL
