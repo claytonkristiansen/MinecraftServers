@@ -1,40 +1,534 @@
-[00:15:46] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:15:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:15:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:15:46] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[00:15:46] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[00:15:46] [main/INFO]: Reloading ResourceManager: Default
-[00:15:47] [Worker-Main-14/INFO]: Loaded 7 recipes
-[00:15:48] [Worker-Main-14/INFO]: Loaded 987 advancements
-[00:15:51] [Server thread/INFO]: Starting minecraft server version 20w46a
-[00:15:51] [Server thread/INFO]: Loading properties
-[00:15:51] [Server thread/INFO]: Default game type: SURVIVAL
-[00:15:51] [Server thread/INFO]: Generating keypair
-[00:15:51] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:15:51] [Server thread/INFO]: Using default channel type
-[00:15:53] [Server thread/INFO]: Preparing level "world"
-[00:15:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:15:55] [Server thread/INFO]: Preparing spawn area: 0%
-[00:15:55] [Server thread/INFO]: Preparing spawn area: 0%
-[00:15:55] [Server thread/INFO]: Preparing spawn area: 0%
-[00:15:55] [Server thread/INFO]: Preparing spawn area: 58%
-[00:15:55] [Server thread/INFO]: Time elapsed: 1597 ms
-[00:15:55] [Server thread/INFO]: Done (1.771s)! For help, type "help"
-[00:15:59] [User Authenticator #1/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
-[00:15:59] [Server thread/INFO]: ClayGamer01[/192.168.1.15:53263] logged in with entity id 147 at (-308.64567318469244, 72.5, 206.16708858913915)
-[00:15:59] [Server thread/INFO]: ClayGamer01 joined the game
-[00:16:07] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
-[00:16:07] [Server thread/INFO]: ClayGamer01 left the game
-[00:16:10] [Server thread/INFO]: Stopping the server
-[00:16:10] [Server thread/INFO]: Stopping server
-[00:16:10] [Server thread/INFO]: Saving players
-[00:16:10] [Server thread/INFO]: Saving worlds
-[00:16:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:16:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:16:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:16:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:16:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:16:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:16:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:16:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:16:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:27:59] [User Authenticator #6/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[00:28:00] [Server thread/INFO]: ClayGamer01[/66.235.2.149:61352] logged in with entity id 18332 at (-310.5, 62.0, 200.5)
+[00:28:00] [Server thread/INFO]: ClayGamer01 joined the game
+[01:00:30] [Server thread/INFO]: com.mojang.authlib.GameProfile@6123cece[id=<null>,name=cqite,properties={},legacy=false] (/75.111.22.225:55001) lost connection: Disconnected
+[01:00:40] [User Authenticator #7/INFO]: UUID of player cqite is 88367f38-6c8d-4ae3-a6ba-97d206695e87
+[01:00:40] [Server thread/INFO]: cqite[/75.111.22.225:55200] logged in with entity id 23254 at (-436.6428641465562, 85.0, 167.6370031529382)
+[01:00:40] [Server thread/INFO]: cqite joined the game
+[01:05:39] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[01:05:39] [Server thread/INFO]: ClayGamer01 left the game
+[01:22:39] [Server thread/INFO]: cqite was blown up by Creeper
+[01:29:34] [Server thread/INFO]: [Server] what is your discord username? I should add you to the server discord
+[01:29:47] [Server thread/INFO]: <cqite> im in it already
+[01:30:13] [Server thread/INFO]: [Server] oh dope
+[01:30:17] [Server thread/INFO]: <cqite> yessir
+[01:49:54] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:49:54] [Server thread/INFO]: <--[HERE]
+[01:50:03] [Server thread/INFO]: /advancement (grant|revoke)
+[01:50:03] [Server thread/INFO]: /attribute <target> <attribute> (base|get|modifier)
+[01:50:03] [Server thread/INFO]: /ban <targets> [<reason>]
+[01:50:03] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[01:50:03] [Server thread/INFO]: /banlist [ips|players]
+[01:50:03] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
+[01:50:03] [Server thread/INFO]: /clear [<targets>]
+[01:50:03] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
+[01:50:03] [Server thread/INFO]: /data (get|merge|modify|remove)
+[01:50:03] [Server thread/INFO]: /datapack (disable|enable|list)
+[01:50:03] [Server thread/INFO]: /debug (report|start|stop)
+[01:50:03] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
+[01:50:03] [Server thread/INFO]: /deop <targets>
+[01:50:03] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
+[01:50:03] [Server thread/INFO]: /effect (clear|give)
+[01:50:03] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[01:50:03] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
+[01:50:03] [Server thread/INFO]: /experience (add|query|set)
+[01:50:03] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
+[01:50:03] [Server thread/INFO]: /forceload (add|query|remove)
+[01:50:03] [Server thread/INFO]: /function <name>
+[01:50:03] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
+[01:50:03] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
+[01:50:03] [Server thread/INFO]: /give <targets> <item> [<count>]
+[01:50:03] [Server thread/INFO]: /help [<command>]
+[01:50:03] [Server thread/INFO]: /item (block|entity)
+[01:50:03] [Server thread/INFO]: /kick <targets> [<reason>]
+[01:50:03] [Server thread/INFO]: /kill [<targets>]
+[01:50:03] [Server thread/INFO]: /list [uuids]
+[01:50:03] [Server thread/INFO]: /locate (bastion_remnant|buried_treasure|desert_pyramid|endcity|fortress|igloo|jungle_pyramid|mansion|mineshaft|monument|nether_fossil|ocean_ruin|pillager_outpost|ruined_portal|shipwreck|stronghold|swamp_hut|village)
+[01:50:03] [Server thread/INFO]: /locatebiome <biome>
+[01:50:03] [Server thread/INFO]: /loot (give|insert|replace|spawn)
+[01:50:03] [Server thread/INFO]: /me <action>
+[01:50:03] [Server thread/INFO]: /msg <targets> <message>
+[01:50:03] [Server thread/INFO]: /op <targets>
+[01:50:03] [Server thread/INFO]: /pardon <targets>
+[01:50:03] [Server thread/INFO]: /pardon-ip <target>
+[01:50:03] [Server thread/INFO]: /particle <name> [<pos>]
+[01:50:03] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
+[01:50:03] [Server thread/INFO]: /recipe (give|take)
+[01:50:03] [Server thread/INFO]: /reload
+[01:50:03] [Server thread/INFO]: /save-all [flush]
+[01:50:03] [Server thread/INFO]: /save-off
+[01:50:03] [Server thread/INFO]: /save-on
+[01:50:03] [Server thread/INFO]: /say <message>
+[01:50:03] [Server thread/INFO]: /schedule (clear|function)
+[01:50:03] [Server thread/INFO]: /scoreboard (objectives|players)
+[01:50:03] [Server thread/INFO]: /seed
+[01:50:03] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[01:50:03] [Server thread/INFO]: /setidletimeout <minutes>
+[01:50:03] [Server thread/INFO]: /setworldspawn [<pos>]
+[01:50:03] [Server thread/INFO]: /spawnpoint [<targets>]
+[01:50:03] [Server thread/INFO]: /spectate [<target>]
+[01:50:03] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (under|<respectTeams>)
+[01:50:03] [Server thread/INFO]: /stop
+[01:50:03] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
+[01:50:03] [Server thread/INFO]: /summon <entity> [<pos>]
+[01:50:03] [Server thread/INFO]: /tag <targets> (add|list|remove)
+[01:50:03] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
+[01:50:03] [Server thread/INFO]: /teammsg <message>
+[01:50:03] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
+[01:50:03] [Server thread/INFO]: /tell -> msg
+[01:50:03] [Server thread/INFO]: /tellraw <targets> <message>
+[01:50:03] [Server thread/INFO]: /time (add|query|set)
+[01:50:03] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
+[01:50:03] [Server thread/INFO]: /tm -> teammsg
+[01:50:03] [Server thread/INFO]: /tp -> teleport
+[01:50:03] [Server thread/INFO]: /trigger <objective> [add|set]
+[01:50:03] [Server thread/INFO]: /w -> msg
+[01:50:03] [Server thread/INFO]: /weather (clear|rain|thunder)
+[01:50:03] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
+[01:50:03] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
+[01:50:03] [Server thread/INFO]: /xp -> experience
+[01:50:20] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[01:50:20] [Server thread/INFO]: summon<--[HERE]
+[01:50:27] [Server thread/INFO]: Unknown entity: minecraft:-help
+[01:50:32] [Server thread/INFO]: Summoned new Cow
+[02:09:01] [Server thread/INFO]: /advancement (grant|revoke)
+[02:09:01] [Server thread/INFO]: /attribute <target> <attribute> (base|get|modifier)
+[02:09:01] [Server thread/INFO]: /ban <targets> [<reason>]
+[02:09:01] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[02:09:01] [Server thread/INFO]: /banlist [ips|players]
+[02:09:01] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
+[02:09:01] [Server thread/INFO]: /clear [<targets>]
+[02:09:01] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
+[02:09:01] [Server thread/INFO]: /data (get|merge|modify|remove)
+[02:09:01] [Server thread/INFO]: /datapack (disable|enable|list)
+[02:09:01] [Server thread/INFO]: /debug (report|start|stop)
+[02:09:01] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
+[02:09:01] [Server thread/INFO]: /deop <targets>
+[02:09:01] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
+[02:09:01] [Server thread/INFO]: /effect (clear|give)
+[02:09:01] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[02:09:01] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
+[02:09:01] [Server thread/INFO]: /experience (add|query|set)
+[02:09:01] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
+[02:09:01] [Server thread/INFO]: /forceload (add|query|remove)
+[02:09:01] [Server thread/INFO]: /function <name>
+[02:09:01] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
+[02:09:01] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
+[02:09:01] [Server thread/INFO]: /give <targets> <item> [<count>]
+[02:09:01] [Server thread/INFO]: /help [<command>]
+[02:09:01] [Server thread/INFO]: /item (block|entity)
+[02:09:01] [Server thread/INFO]: /kick <targets> [<reason>]
+[02:09:01] [Server thread/INFO]: /kill [<targets>]
+[02:09:01] [Server thread/INFO]: /list [uuids]
+[02:09:01] [Server thread/INFO]: /locate (bastion_remnant|buried_treasure|desert_pyramid|endcity|fortress|igloo|jungle_pyramid|mansion|mineshaft|monument|nether_fossil|ocean_ruin|pillager_outpost|ruined_portal|shipwreck|stronghold|swamp_hut|village)
+[02:09:01] [Server thread/INFO]: /locatebiome <biome>
+[02:09:01] [Server thread/INFO]: /loot (give|insert|replace|spawn)
+[02:09:01] [Server thread/INFO]: /me <action>
+[02:09:01] [Server thread/INFO]: /msg <targets> <message>
+[02:09:01] [Server thread/INFO]: /op <targets>
+[02:09:01] [Server thread/INFO]: /pardon <targets>
+[02:09:01] [Server thread/INFO]: /pardon-ip <target>
+[02:09:01] [Server thread/INFO]: /particle <name> [<pos>]
+[02:09:01] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
+[02:09:01] [Server thread/INFO]: /recipe (give|take)
+[02:09:01] [Server thread/INFO]: /reload
+[02:09:01] [Server thread/INFO]: /save-all [flush]
+[02:09:01] [Server thread/INFO]: /save-off
+[02:09:01] [Server thread/INFO]: /save-on
+[02:09:01] [Server thread/INFO]: /say <message>
+[02:09:01] [Server thread/INFO]: /schedule (clear|function)
+[02:09:01] [Server thread/INFO]: /scoreboard (objectives|players)
+[02:09:01] [Server thread/INFO]: /seed
+[02:09:01] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[02:09:01] [Server thread/INFO]: /setidletimeout <minutes>
+[02:09:01] [Server thread/INFO]: /setworldspawn [<pos>]
+[02:09:01] [Server thread/INFO]: /spawnpoint [<targets>]
+[02:09:01] [Server thread/INFO]: /spectate [<target>]
+[02:09:01] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (under|<respectTeams>)
+[02:09:01] [Server thread/INFO]: /stop
+[02:09:01] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
+[02:09:01] [Server thread/INFO]: /summon <entity> [<pos>]
+[02:09:01] [Server thread/INFO]: /tag <targets> (add|list|remove)
+[02:09:01] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
+[02:09:01] [Server thread/INFO]: /teammsg <message>
+[02:09:01] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
+[02:09:01] [Server thread/INFO]: /tell -> msg
+[02:09:01] [Server thread/INFO]: /tellraw <targets> <message>
+[02:09:01] [Server thread/INFO]: /time (add|query|set)
+[02:09:01] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
+[02:09:01] [Server thread/INFO]: /tm -> teammsg
+[02:09:01] [Server thread/INFO]: /tp -> teleport
+[02:09:01] [Server thread/INFO]: /trigger <objective> [add|set]
+[02:09:01] [Server thread/INFO]: /w -> msg
+[02:09:01] [Server thread/INFO]: /weather (clear|rain|thunder)
+[02:09:01] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
+[02:09:01] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
+[02:09:01] [Server thread/INFO]: /xp -> experience
+[02:10:08] [Server thread/INFO]: Added kind_kqtie to the whitelist
+[02:10:12] [Server thread/INFO]: cqite lost connection: Timed out
+[02:10:12] [Server thread/INFO]: cqite left the game
+[02:11:25] [User Authenticator #8/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[02:11:25] [Server thread/INFO]: ClayGamer01[/66.235.2.149:62343] logged in with entity id 31687 at (-301.29906141048184, 83.0, 202.60343431792865)
+[02:11:25] [Server thread/INFO]: ClayGamer01 joined the game
+[02:11:41] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[02:11:41] [Server thread/INFO]: ClayGamer01 left the game
+[02:14:04] [User Authenticator #9/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[02:14:04] [Server thread/INFO]: ClayGamer01[/66.235.2.149:62377] logged in with entity id 31835 at (-301.29906141048184, 83.0, 202.60343431792865)
+[02:14:04] [Server thread/INFO]: ClayGamer01 joined the game
+[02:14:21] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[02:14:21] [Server thread/INFO]: ClayGamer01 left the game
+[02:17:08] [User Authenticator #10/INFO]: UUID of player cqite is 88367f38-6c8d-4ae3-a6ba-97d206695e87
+[02:17:08] [Server thread/INFO]: cqite[/75.111.22.225:57002] logged in with entity id 31907 at (-410.56357931236715, 80.0, 128.79484654370881)
+[02:17:08] [Server thread/INFO]: cqite joined the game
+[02:20:23] [Server thread/INFO]: cqite lost connection: Timed out
+[02:20:23] [Server thread/INFO]: cqite left the game
+[02:21:07] [User Authenticator #11/INFO]: UUID of player cqite is 88367f38-6c8d-4ae3-a6ba-97d206695e87
+[02:21:07] [Server thread/INFO]: cqite[/75.111.22.225:57374] logged in with entity id 32379 at (-439.936595150491, 84.0, 165.8907435231188)
+[02:21:07] [Server thread/INFO]: cqite joined the game
+[02:26:46] [Server thread/INFO]: cqite lost connection: Disconnected
+[02:26:46] [Server thread/INFO]: cqite left the game
+[02:50:57] [User Authenticator #12/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
+[02:50:57] [Server thread/INFO]: Quindolin[/71.15.193.70:63100] logged in with entity id 33023 at (-282.0875239800218, 82.9375, 191.62994821449257)
+[02:50:57] [Server thread/INFO]: Quindolin joined the game
+[02:51:33] [Server thread/INFO]: [Server] give me a few minutes. grabbing food
+[02:51:37] [Server thread/INFO]: <Quindolin> ok
+[02:52:41] [User Authenticator #13/INFO]: UUID of player cqite is 88367f38-6c8d-4ae3-a6ba-97d206695e87
+[02:52:41] [Server thread/INFO]: cqite[/75.111.22.225:58869] logged in with entity id 33396 at (-443.93261363750923, 84.0, 167.1077143437825)
+[02:52:41] [Server thread/INFO]: cqite joined the game
+[02:54:20] [Server thread/INFO]: <Quindolin> whose this?
+[02:54:26] [Server thread/INFO]: <cqite> cait, gages sister
+[02:54:30] [Server thread/INFO]: <Quindolin> ahh
+[02:55:10] [Server thread/INFO]: <Quindolin> sleep?
+[02:55:13] [Server thread/INFO]: <cqite> sure one sec
+[03:02:16] [User Authenticator #14/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[03:02:16] [Server thread/INFO]: ClayGamer01[/66.235.2.149:62899] logged in with entity id 35415 at (-301.29906141048184, 83.0, 202.60343431792865)
+[03:02:16] [Server thread/INFO]: ClayGamer01 joined the game
+[03:04:40] [Server thread/INFO]: Quindolin lost connection: Disconnected
+[03:04:40] [Server thread/INFO]: Quindolin left the game
+[03:04:50] [Server thread/INFO]: cqite has made the advancement [Isn't It Iron Pick]
+[03:09:05] [User Authenticator #15/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
+[03:09:05] [Server thread/INFO]: Quindolin[/71.15.193.70:63272] logged in with entity id 36949 at (-251.00150247624532, 75.0, 198.35688632958008)
+[03:09:05] [Server thread/INFO]: Quindolin joined the game
+[03:09:58] [Server thread/INFO]: <ClayGamer01> brb
+[03:09:59] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[03:09:59] [Server thread/INFO]: ClayGamer01 left the game
+[03:28:15] [Server thread/INFO]: <Quindolin> sleep?
+[03:28:19] [Server thread/INFO]: <cqite> kk
+[03:28:44] [Server thread/INFO]: <Quindolin> thakns
+[03:28:47] [Server thread/INFO]: <cqite> np
+[03:34:55] [Server thread/INFO]: Quindolin lost connection: Disconnected
+[03:34:55] [Server thread/INFO]: Quindolin left the game
+[03:35:37] [User Authenticator #16/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
+[03:35:37] [Server thread/INFO]: Quindolin[/71.15.193.70:63406] logged in with entity id 45203 at (-265.8787028053979, 77.0, 252.30000001192093)
+[03:35:37] [Server thread/INFO]: Quindolin joined the game
+[03:36:18] [Server thread/INFO]: Quindolin lost connection: Disconnected
+[03:36:18] [Server thread/INFO]: Quindolin left the game
+[03:37:04] [Server thread/INFO]: cqite was blown up by Creeper
+[03:37:19] [Server thread/INFO]: <cqite> WHERED IT COME FROM
+[03:38:48] [User Authenticator #17/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
+[03:38:48] [Server thread/INFO]: Quindolin[/71.15.193.70:63434] logged in with entity id 45745 at (-258.25402363448137, 77.0, 251.30000001192096)
+[03:38:48] [Server thread/INFO]: Quindolin joined the game
+[03:39:33] [Server thread/INFO]: <Quindolin> sleep?
+[03:39:42] [Server thread/INFO]: <cqite> sure
+[03:39:52] [Server thread/INFO]: <cqite> hold on
+[03:40:30] [Server thread/INFO]: <Quindolin> thanks
+[03:43:35] [Server thread/INFO]: Quindolin lost connection: Disconnected
+[03:43:35] [Server thread/INFO]: Quindolin left the game
+[03:50:53] [User Authenticator #18/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[03:50:53] [Server thread/INFO]: ClayGamer01[/66.235.2.149:63249] logged in with entity id 47924 at (-292.78314133591743, 11.0, 201.73575370500188)
+[03:50:53] [Server thread/INFO]: ClayGamer01 joined the game
+[03:51:10] [User Authenticator #19/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
+[03:51:10] [Server thread/INFO]: Quindolin[/71.15.193.70:63495] logged in with entity id 48026 at (-268.1257219829695, 77.0, 254.09141362601872)
+[03:51:10] [Server thread/INFO]: Quindolin joined the game
+[03:51:31] [Server thread/INFO]: <Quindolin> sleep?
+[03:51:45] [Server thread/INFO]: <cqite> yeah sure
+[03:52:37] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[03:52:37] [Server thread/INFO]: ClayGamer01 left the game
+[03:53:00] [User Authenticator #20/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[03:53:00] [Server thread/INFO]: ClayGamer01[/66.235.2.149:63272] logged in with entity id 48514 at (-295.49000000953674, 81.7125, 206.5)
+[03:53:00] [Server thread/INFO]: ClayGamer01 joined the game
+[03:53:16] [Server thread/INFO]: ClayGamer01 lost connection: Timed out
+[03:53:16] [Server thread/INFO]: ClayGamer01 left the game
+[03:53:23] [User Authenticator #21/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[03:53:23] [Server thread/INFO]: ClayGamer01[/66.235.2.149:63276] logged in with entity id 48631 at (-295.49000000953674, 81.7125, 206.5)
+[03:53:23] [Server thread/INFO]: ClayGamer01 joined the game
+[03:54:37] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[03:54:37] [Server thread/INFO]: ClayGamer01 left the game
+[03:54:40] [User Authenticator #22/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[03:54:40] [Server thread/INFO]: ClayGamer01[/66.235.2.149:63282] logged in with entity id 49006 at (-296.5, 82.0, 206.5)
+[03:54:40] [Server thread/INFO]: ClayGamer01 joined the game
+[03:54:57] [Server thread/INFO]: Quindolin lost connection: Disconnected
+[03:54:57] [Server thread/INFO]: Quindolin left the game
+[03:55:13] [User Authenticator #23/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
+[03:55:14] [Server thread/INFO]: Quindolin[/71.15.193.70:63516] logged in with entity id 49139 at (-267.84164024175226, 77.0, 265.65681083452057)
+[03:55:14] [Server thread/INFO]: Quindolin joined the game
+[03:57:47] [Server thread/INFO]: Quindolin lost connection: Disconnected
+[03:57:47] [Server thread/INFO]: Quindolin left the game
+[03:58:06] [User Authenticator #24/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
+[03:58:06] [Server thread/INFO]: Quindolin[/71.15.193.70:63532] logged in with entity id 50095 at (-268.69999998807907, 77.0, 252.30000001192093)
+[03:58:06] [Server thread/INFO]: Quindolin joined the game
+[04:00:12] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[04:00:12] [Server thread/INFO]: ClayGamer01 left the game
+[04:00:14] [User Authenticator #25/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[04:00:14] [Server thread/INFO]: ClayGamer01[/66.235.2.149:63342] logged in with entity id 50686 at (-279.30000001192093, 83.0, 224.1789714082148)
+[04:00:14] [Server thread/INFO]: ClayGamer01 joined the game
+[04:01:11] [Server thread/INFO]: Quindolin lost connection: Disconnected
+[04:01:11] [Server thread/INFO]: Quindolin left the game
+[04:01:22] [User Authenticator #26/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
+[04:01:22] [Server thread/INFO]: Quindolin[/71.15.193.70:63547] logged in with entity id 50933 at (-264.71322875145995, 77.0, 256.2189635084437)
+[04:01:22] [Server thread/INFO]: Quindolin joined the game
+[04:03:11] [Server thread/INFO]: <cqite> brb
+[04:03:12] [Server thread/INFO]: cqite lost connection: Disconnected
+[04:03:12] [Server thread/INFO]: cqite left the game
+[04:04:20] [User Authenticator #27/INFO]: UUID of player cqite is 88367f38-6c8d-4ae3-a6ba-97d206695e87
+[04:04:21] [Server thread/INFO]: cqite[/75.111.22.225:63188] logged in with entity id 51520 at (-426.93641268916616, 82.0, 162.08996474364764)
+[04:04:21] [Server thread/INFO]: cqite joined the game
+[04:09:45] [Server thread/INFO]: ClayGamer01 lost connection: Kicked by an operator
+[04:09:45] [Server thread/INFO]: ClayGamer01 left the game
+[04:09:45] [Server thread/INFO]: [Quindolin: Kicked ClayGamer01: Kicked by an operator]
+[04:09:45] [Server thread/WARN]: handleDisconnection() called twice
+[04:09:49] [Server thread/INFO]: <Quindolin> sleep?
+[04:09:54] [Server thread/INFO]: <cqite> not near a bed
+[04:10:01] [Server thread/INFO]: <cqite> ill leave for sec
+[04:10:02] [Server thread/INFO]: cqite lost connection: Disconnected
+[04:10:02] [Server thread/INFO]: cqite left the game
+[04:10:38] [Server thread/INFO]: Quindolin lost connection: Disconnected
+[04:10:38] [Server thread/INFO]: Quindolin left the game
+[04:10:42] [User Authenticator #28/INFO]: UUID of player cqite is 88367f38-6c8d-4ae3-a6ba-97d206695e87
+[04:10:42] [Server thread/INFO]: cqite[/75.111.22.225:63263] logged in with entity id 53559 at (-218.161803445296, 63.0, 84.81473442950151)
+[04:10:42] [Server thread/INFO]: cqite joined the game
+[04:10:56] [User Authenticator #29/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
+[04:10:56] [Server thread/INFO]: Quindolin[/71.15.193.70:63601] logged in with entity id 53857 at (-270.1813856440619, 79.0, 249.58077409833672)
+[04:10:56] [Server thread/INFO]: Quindolin joined the game
+[04:11:02] [Server thread/INFO]: <Quindolin> thanks
+[04:11:04] [Server thread/INFO]: <cqite> np
+[04:11:06] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-225, y=85, z=151} fx{x=-225, y=84, z=153}
+[04:11:14] [Server thread/INFO]: Quindolin lost connection: Disconnected
+[04:11:14] [Server thread/INFO]: Quindolin left the game
+[04:11:27] [User Authenticator #30/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
+[04:11:27] [Server thread/INFO]: Quindolin[/71.15.193.70:63609] logged in with entity id 54074 at (-272.9259966727852, 77.0, 256.8604637782447)
+[04:11:27] [Server thread/INFO]: Quindolin joined the game
+[04:12:19] [Server thread/INFO]: Quindolin lost connection: Disconnected
+[04:12:19] [Server thread/INFO]: Quindolin left the game
+[04:12:39] [User Authenticator #31/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
+[04:12:39] [Server thread/INFO]: Quindolin[/71.15.193.70:63625] logged in with entity id 54618 at (-265.69932680058275, 88.0, 263.66859474277624)
+[04:12:39] [Server thread/INFO]: Quindolin joined the game
+[04:12:58] [Server thread/WARN]: Horse (vehicle of cqite) moved wrongly! 0.5048686347914497
+[04:13:02] [Server thread/INFO]: cqite has made the advancement [Best Friends Forever]
+[04:24:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[04:29:47] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -10.393489681211577,0.0,-0.3678201977543267
+[04:29:47] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -10.793239276435997,0.0,-0.3819680196979789
+[04:29:47] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -11.192988871489433,0.0,-0.396115861151884
+[04:29:47] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -11.592738466386436,0.0,-0.4102637201649486
+[04:29:47] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -11.992488061143376,0.0,-0.42441159498116576
+[04:29:47] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -12.392237655772988,0.0,-0.43855948402028844
+[04:29:47] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -12.79198725029164,0.0,-0.4527073858600943
+[04:29:47] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -13.191736844706611,0.0,-0.46685529922024216
+[04:29:47] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -13.591486439028813,0.0,-0.4810032229490844
+[04:29:47] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -13.99123603326916,0.0,-0.4951511560095696
+[04:29:47] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -14.390985627436748,0.0,-0.5092990974685563
+[04:29:47] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -14.790735221535215,0.0,-0.523447046486126
+[04:29:47] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -15.190484815575473,0.0,-0.5375950023064888
+[04:29:47] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -15.590234409559343,0.0,-0.5517429642493425
+[04:29:47] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -15.98998400349592,0.0,-0.5658909317023699
+[04:29:47] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -16.38973359738702,0.0,-0.5800389041146445
+[04:29:47] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -16.789483191239924,0.0,-0.5941868809902644
+[04:29:47] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -17.189232785056447,0.0,-0.6083348618826676
+[04:29:47] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -17.588982378840228,0.0,-0.6224828463905396
+[04:29:47] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -17.988731972596725,0.0,-0.636630834152129
+[04:29:47] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -18.388481566325936,0.0,-0.6507788248420638
+[04:29:47] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -18.78823116003332,0.0,-0.664926818167487
+[04:29:47] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -19.187980753718875,0.0,-0.6790748138648723
+[04:29:47] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -19.587730347384422,0.0,-0.6932228116970691
+[04:29:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2417ms or 48 ticks behind
+[04:29:48] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 10.393489448875698,0.0,0.36784641544454644
+[04:29:48] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 10.393489448875698,0.0,0.36784641544454644
+[04:29:48] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 10.393489448875698,0.0,0.36784641544454644
+[04:29:48] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 10.393489448875698,0.0,0.36784641544454644
+[04:29:48] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 10.393489448875698,0.0,0.36784641544454644
+[04:29:48] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 10.393489448875698,0.0,0.36784641544454644
+[04:29:48] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 10.393489448875698,0.0,0.36784641544454644
+[04:29:48] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 10.393489448875698,0.0,0.36784641544454644
+[04:29:48] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 10.393489448875698,0.0,0.36784641544454644
+[04:29:48] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 10.393489448875698,0.0,0.36784641544454644
+[04:29:48] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -10.393489448875698,0.0,-0.36784641544454644
+[04:29:48] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -10.393489448875698,0.0,-0.36784641544454644
+[04:29:48] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -10.393489448875698,0.0,-0.36784641544454644
+[04:29:48] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -10.793239042463028,0.0,-0.38199442227914915
+[04:29:48] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -10.393489448875698,0.0,-0.36784641544454644
+[04:29:48] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -10.393489448875698,0.0,-0.36784641544454644
+[04:29:48] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -10.393489448875698,0.0,-0.36784641544454644
+[04:29:48] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -10.393489448875698,0.0,-0.36784641544454644
+[04:29:48] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -10.393489448875698,0.0,-0.36784641544454644
+[04:29:48] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -10.393489448875698,0.0,-0.36784641544454644
+[04:29:48] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -10.393489448875698,0.0,-0.36784641544454644
+[04:29:48] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -10.793239042453934,0.0,-0.3819944233002843
+[04:29:48] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -11.192988636023983,0.0,-0.39614243207483923
+[04:29:48] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -11.592738229586757,0.0,-0.4102904416765796
+[04:34:50] [Server thread/WARN]: cqite moved too quickly! 8.043289867018927,1.0,-6.353502374962147
+[04:34:50] [Server thread/WARN]: Quindolin moved too quickly! -8.738067490273352,1.0,-4.922240476042589
+[04:34:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2429ms or 48 ticks behind
+[04:36:11] [Server thread/INFO]: cqite lost connection: Disconnected
+[04:36:11] [Server thread/INFO]: cqite left the game
+[04:39:45] [User Authenticator #32/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[04:39:45] [Server thread/INFO]: ClayGamer01[/66.235.2.149:51417] logged in with entity id 73066 at (-280.383013792663, 82.9375, 178.5506637731485)
+[04:39:45] [Server thread/INFO]: ClayGamer01 joined the game
+[04:39:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2416ms or 48 ticks behind
+[04:40:29] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[04:40:29] [Server thread/INFO]: ClayGamer01 left the game
+[04:40:51] [Server thread/WARN]: UUID of added entity already exists: bbg['Rabbit'/73645, l='ServerLevel[world]', x=-6323.00, y=70.00, z=-2343.00]
+[04:40:51] [Server thread/WARN]: UUID of added entity already exists: bbg['Rabbit'/73646, l='ServerLevel[world]', x=-6321.00, y=71.00, z=-2341.00]
+[04:44:55] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 7.951977471530881,0.0,6.350388914134783
+[04:44:55] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 8.284090820435267,0.0,6.569858466571077
+[04:44:55] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 8.616960235814076,0.0,6.788501601191456
+[04:44:55] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 8.95052225917334,0.0,7.006381415061696
+[04:44:55] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 9.28471774013633,0.0,7.223557949580936
+[04:44:55] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 9.61949142053254,0.0,7.4400884941846925
+[04:44:55] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 9.954793560559665,0.0,7.656024607500967
+[04:44:55] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 10.290579386946774,0.0,7.871412688568853
+[04:44:55] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 10.62680860002456,0.0,8.086294494659796
+[04:44:55] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 10.963442910984668,0.0,8.300710865083147
+[04:44:55] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 11.300445840794055,0.0,8.514701818570757
+[04:44:55] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 11.637786569978744,0.0,8.728300106763527
+[04:44:55] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 11.945602028364192,0.0,8.923237400919334
+[04:44:55] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 12.226753448509953,0.0,9.101517125797727
+[04:44:55] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 12.483768904602584,0.0,9.26499604739547
+[04:44:55] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 12.71887385831451,0.0,9.415386762017079
+[04:44:55] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 12.934017377421696,0.0,9.554260010478174
+[04:44:55] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 13.130896403349652,0.0,9.68304540651161
+[04:44:55] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 13.310979090691035,0.0,9.8030310546078
+[04:44:55] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 13.475526333380003,0.0,9.915363599087868
+[04:44:55] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 13.6256143319888,0.0,10.021047238927622
+[04:44:55] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 13.762156414549281,0.0,10.120943581031952
+[04:44:55] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 13.885925532063993,0.0,10.215771930073515
+[04:44:55] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 13.997577914679823,0.0,10.306110643183274
+[04:44:55] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 14.097675723896828,0.0,10.39240030169276
+[04:44:55] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! 14.187763749805526,0.0,10.470060992294293
+[04:44:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2470ms or 49 ticks behind
+[04:45:05] [Server thread/INFO]: Quindolin lost connection: Disconnected
+[04:45:05] [Server thread/INFO]: Quindolin left the game
+[04:52:12] [User Authenticator #33/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
+[04:52:12] [Server thread/INFO]: Quindolin[/71.15.193.70:63973] logged in with entity id 76813 at (-7856.55070935397, 62.07326326836655, -2147.373557251167)
+[04:52:12] [Server thread/INFO]: Quindolin joined the game
+[04:57:51] [User Authenticator #34/INFO]: UUID of player cqite is 88367f38-6c8d-4ae3-a6ba-97d206695e87
+[04:57:51] [Server thread/INFO]: cqite[/47.208.24.5:63891] logged in with entity id 79730 at (-305.2704515029735, 66.0, 83.90935751201638)
+[04:57:51] [Server thread/INFO]: cqite joined the game
+[04:59:48] [Server thread/INFO]: <Quindolin> do you know the coords of our village? im lost...
+[04:59:57] [Server thread/WARN]: cqite moved too quickly! 7.214592342036838,-5.592604597635059,4.823561704865398
+[04:59:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2457ms or 49 ticks behind
+[05:00:10] [Server thread/INFO]: Quindolin lost connection: Disconnected
+[05:00:10] [Server thread/INFO]: Quindolin left the game
+[05:00:12] [User Authenticator #35/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
+[05:00:12] [Server thread/INFO]: Quindolin[/71.15.193.70:64004] logged in with entity id 82722 at (-6647.713096142132, 63.085763310095984, -1323.3858848959114)
+[05:00:12] [Server thread/INFO]: Quindolin joined the game
+[05:00:13] [Server thread/INFO]: <cqite> yeah they should be around -300 150 or something
+[05:00:21] [Server thread/INFO]: <Quindolin> ok cool, thanks
+[05:00:24] [Server thread/INFO]: <cqite> np
+[05:02:38] [User Authenticator #36/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[05:02:38] [Server thread/INFO]: ClayGamer01[/66.235.2.149:50671] logged in with entity id 84610 at (-270.6498562868044, 83.0, 171.93606692195743)
+[05:02:38] [Server thread/INFO]: ClayGamer01 joined the game
+[05:04:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2309ms or 46 ticks behind
+[05:05:29] [Server thread/INFO]: cqite lost connection: Disconnected
+[05:05:29] [Server thread/INFO]: cqite left the game
+[05:10:02] [Server thread/WARN]: Quindolin moved too quickly! 9.991631618275278,1.0,-0.3454597804152968
+[05:10:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2644ms or 52 ticks behind
+[05:15:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2138ms or 42 ticks behind
+[05:18:58] [Server thread/INFO]: Villager bfz['Villager'/97950, l='ServerLevel[world]', x=-1361.37, y=77.56, z=85.28] died, message: 'Villager suffocated in a wall'
+[05:37:55] [Server thread/INFO]: Quindolin lost connection: Disconnected
+[05:37:55] [Server thread/INFO]: Quindolin left the game
+[06:21:22] [User Authenticator #37/INFO]: UUID of player cqite is 88367f38-6c8d-4ae3-a6ba-97d206695e87
+[06:21:22] [Server thread/INFO]: cqite[/47.208.24.5:65168] logged in with entity id 105730 at (-441.0990310767674, 84.0, 167.17593137088386)
+[06:21:22] [Server thread/INFO]: cqite joined the game
+[06:37:53] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[06:37:53] [Server thread/INFO]: ClayGamer01 left the game
+[06:38:56] [User Authenticator #38/INFO]: UUID of player kind_kqtie is 29b6af0a-703f-42a3-a590-82a5b8619308
+[06:38:56] [Server thread/INFO]: kind_kqtie[/66.235.2.149:63462] logged in with entity id 108308 at (-279.5, 83.0, 175.5)
+[06:38:56] [Server thread/INFO]: kind_kqtie joined the game
+[06:39:17] [User Authenticator #39/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[06:39:17] [Server thread/INFO]: ClayGamer01[/66.235.2.149:51039] logged in with entity id 108457 at (-292.69999998807907, 83.0, 200.89801755101732)
+[06:39:17] [Server thread/INFO]: ClayGamer01 joined the game
+[06:39:34] [Server thread/INFO]: kind_kqtie was slain by ClayGamer01
+[06:39:54] [Server thread/INFO]: kind_kqtie was slain by ClayGamer01
+[06:40:04] [Server thread/INFO]: kind_kqtie was slain by ClayGamer01
+[06:40:14] [Server thread/INFO]: kind_kqtie was slain by ClayGamer01
+[06:40:25] [Server thread/INFO]: kind_kqtie was slain by ClayGamer01
+[06:40:32] [Server thread/INFO]: kind_kqtie lost connection: Disconnected
+[06:40:32] [Server thread/INFO]: kind_kqtie left the game
+[06:40:36] [User Authenticator #40/INFO]: UUID of player kind_kqtie is 29b6af0a-703f-42a3-a590-82a5b8619308
+[06:40:36] [Server thread/INFO]: kind_kqtie[/66.235.2.149:63486] logged in with entity id 108800 at (-281.7823765141819, 82.9375, 179.9302763920751)
+[06:40:36] [Server thread/INFO]: kind_kqtie joined the game
+[06:41:12] [Server thread/INFO]: kind_kqtie fell from a high place
+[06:44:03] [Server thread/INFO]: cqite fell from a high place
+[06:44:17] [Server thread/INFO]: kind_kqtie was shot by Skeleton
+[06:44:27] [Server thread/INFO]: cqite hit the ground too hard
+[06:45:11] [Server thread/INFO]: kind_kqtie fell from a high place
+[06:45:23] [Server thread/INFO]: <cqite> u have my pants
+[06:45:34] [Server thread/INFO]: kind_kqtie fell from a high place
+[06:46:34] [Server thread/INFO]: ClayGamer01 was slain by cqite
+[06:46:39] [Server thread/INFO]: <cqite> OOPS
+[06:46:59] [Server thread/INFO]: <cqite> SORRY
+[06:47:45] [Server thread/INFO]: kind_kqtie has made the advancement [Stone Age]
+[06:48:36] [Server thread/INFO]: kind_kqtie was slain by ClayGamer01
+[06:48:46] [Server thread/INFO]: <cqite> im magic
+[06:49:28] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
+[06:49:57] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
+[06:51:43] [Server thread/INFO]: kind_kqtie has made the advancement [Acquire Hardware]
+[06:53:07] [Server thread/INFO]: <ClayGamer01> send the chest one back up
+[06:53:34] [Server thread/INFO]: <ClayGamer01> did you send the chest one back up?
+[06:53:39] [Server thread/INFO]: <cqite> idk
+[06:54:19] [Server thread/INFO]: <cqite> dk where it is
+[06:54:51] [Server thread/INFO]: <ClayGamer01> give chest
+[06:55:14] [Server thread/INFO]: kind_kqtie fell from a high place
+[06:55:38] [Server thread/INFO]: <ClayGamer01> give bucket cqite
+[06:55:46] [Server thread/INFO]: <ClayGamer01> tnx
+[06:55:54] [Server thread/INFO]: <cqite> I FOUND CHES
+[06:56:26] [Server thread/INFO]: kind_kqtie fell from a high place
+[06:57:12] [Server thread/INFO]: kind_kqtie fell from a high place
+[06:58:36] [Server thread/INFO]: [ClayGamer01: Summoned new Cod]
+[06:58:49] [Server thread/INFO]: [ClayGamer01: Summoned new Cod]
+[06:58:52] [Server thread/INFO]: <cqite> the good stuff
+[06:59:02] [Server thread/INFO]: kind_kqtie fell from a high place
+[06:59:20] [Server thread/INFO]: <cqite> THE GOOD STUFF
+[06:59:26] [Server thread/INFO]: <kind_kqtie> DA GOOD STUFF
+[06:59:41] [Server thread/INFO]: kind_kqtie was slain by ClayGamer01
+[07:01:50] [Server thread/INFO]: kind_kqtie has made the advancement [Sweet Dreams]
+[07:03:03] [Server thread/INFO]: kind_kqtie lost connection: Disconnected
+[07:03:03] [Server thread/INFO]: kind_kqtie left the game
+[07:03:12] [Server thread/INFO]: cqite lost connection: Disconnected
+[07:03:12] [Server thread/INFO]: cqite left the game
+[07:54:31] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
+[07:55:52] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
+[07:56:35] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
+[07:58:36] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
+[08:04:01] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
+[08:04:17] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
+[08:26:21] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
+[08:27:46] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
+[08:29:28] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
+[08:41:20] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
+[08:42:52] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
+[08:47:05] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
+[09:08:11] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
+[09:09:30] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
+[09:09:50] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
+[09:11:17] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
+[09:53:58] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[09:53:58] [Server thread/INFO]: ClayGamer01 left the game
+[19:08:16] [User Authenticator #41/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
+[19:08:16] [Server thread/INFO]: Quindolin[/71.15.193.70:54659] logged in with entity id 137590 at (-273.5, 87.0, 197.5)
+[19:08:16] [Server thread/INFO]: Quindolin joined the game
+[19:12:27] [Server thread/INFO]: Quindolin lost connection: Disconnected
+[19:12:27] [Server thread/INFO]: Quindolin left the game
+[19:13:59] [Server thread/INFO]: Stopping the server
+[19:13:59] [Server thread/INFO]: Stopping server
+[19:13:59] [Server thread/INFO]: Saving players
+[19:13:59] [Server thread/INFO]: Saving worlds
+[19:13:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:14:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:14:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:14:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:14:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:14:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:14:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:14:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:14:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
