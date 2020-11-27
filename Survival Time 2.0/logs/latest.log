@@ -1,563 +1,81 @@
-[00:05:05] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[00:05:58] [Server thread/INFO]: cqite lost connection: Timed out
-[00:05:58] [Server thread/INFO]: cqite left the game
-[00:09:11] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
-[00:09:50] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[00:12:39] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
-[00:13:10] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[00:19:12] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
-[00:27:02] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
-[00:27:16] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[00:29:10] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
-[00:29:33] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[00:30:20] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
-[00:30:35] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[00:31:46] [Server thread/INFO]: [ClayGamer01: The difficulty has been set to Peaceful]
-[00:31:51] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
-[00:32:03] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[00:32:08] [Server thread/INFO]: [ClayGamer01: The difficulty has been set to Hard]
-[00:32:42] [User Authenticator #29/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
-[00:32:42] [Server thread/INFO]: Quindolin[/71.15.193.70:57306] logged in with entity id 51084 at (-272.30000001192093, 87.0, 198.64118122709664)
-[00:32:42] [Server thread/INFO]: Quindolin joined the game
-[00:33:17] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
-[00:34:00] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
-[00:34:00] [Server thread/INFO]: ClayGamer01 left the game
-[00:34:14] [User Authenticator #30/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
-[00:34:14] [Server thread/INFO]: ClayGamer01[/66.235.2.149:53876] logged in with entity id 51594 at (-257.77427016678257, 21.60667125402853, 304.48929360234996)
-[00:34:14] [Server thread/INFO]: ClayGamer01 joined the game
-[00:34:17] [Server thread/INFO]: <ClayGamer01> big sad
-[00:34:22] [Server thread/INFO]: <Quindolin> what?
-[00:34:58] [Server thread/INFO]: Quindolin lost connection: Disconnected
-[00:34:58] [Server thread/INFO]: Quindolin left the game
-[00:35:14] [User Authenticator #31/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
-[00:35:14] [Server thread/INFO]: Quindolin[/71.15.193.70:57334] logged in with entity id 51799 at (-268.08440287491817, 77.0, 255.72914296946834)
-[00:35:14] [Server thread/INFO]: Quindolin joined the game
-[00:35:20] [Server thread/INFO]: <ClayGamer01> I found two zombie spawners super close to each other and I thought I could use both of them for one xp farm, but they are just two or so blocks too far apart
-[00:35:23] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[00:35:39] [Server thread/INFO]: <Quindolin> o rip
-[00:35:48] [Server thread/INFO]: <Quindolin> well two people can afk lol
-[00:35:59] [Server thread/INFO]: <ClayGamer01> teue
-[00:36:01] [Server thread/INFO]: <ClayGamer01> true
-[00:36:14] [Server thread/INFO]: Quindolin lost connection: Disconnected
-[00:36:14] [Server thread/INFO]: Quindolin left the game
-[00:36:30] [User Authenticator #32/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
-[00:36:30] [Server thread/INFO]: Quindolin[/71.15.193.70:57351] logged in with entity id 52037 at (-254.38979342603204, 83.0, 255.78398381582468)
-[00:36:30] [Server thread/INFO]: Quindolin joined the game
-[00:36:48] [Server thread/INFO]: Quindolin lost connection: Disconnected
-[00:36:48] [Server thread/INFO]: Quindolin left the game
-[00:37:02] [User Authenticator #33/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
-[00:37:02] [Server thread/INFO]: Quindolin[/71.15.193.70:57362] logged in with entity id 52148 at (-250.5438573481711, 77.0, 263.17311857436414)
-[00:37:02] [Server thread/INFO]: Quindolin joined the game
-[00:37:44] [Server thread/INFO]: Quindolin lost connection: Disconnected
-[00:37:44] [Server thread/INFO]: Quindolin left the game
-[00:38:21] [User Authenticator #34/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
-[00:38:21] [Server thread/INFO]: Quindolin[/71.15.193.70:57389] logged in with entity id 52377 at (-261.8804983526815, 82.0, 260.75888502425596)
-[00:38:21] [Server thread/INFO]: Quindolin joined the game
-[00:39:00] [Server thread/INFO]: Quindolin lost connection: Disconnected
-[00:39:00] [Server thread/INFO]: Quindolin left the game
-[00:39:19] [User Authenticator #35/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
-[00:39:19] [Server thread/INFO]: Quindolin[/71.15.193.70:57396] logged in with entity id 52624 at (-261.3319036380563, 84.0, 260.02122385283445)
-[00:39:19] [Server thread/INFO]: Quindolin joined the game
-[00:40:32] [Server thread/INFO]: Quindolin lost connection: Disconnected
-[00:40:32] [Server thread/INFO]: Quindolin left the game
-[00:40:35] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
-[00:40:48] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[00:41:29] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
-[00:41:40] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[00:41:58] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
-[00:42:04] [User Authenticator #36/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
-[00:42:04] [Server thread/INFO]: Quindolin[/71.15.193.70:57547] logged in with entity id 53109 at (-252.11633929143082, 78.0, 248.94371461505457)
-[00:42:04] [Server thread/INFO]: Quindolin joined the game
-[00:42:08] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[00:42:13] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
-[00:42:35] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[00:45:21] [Server thread/INFO]: <Quindolin> sleep?
-[00:45:26] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
-[00:45:26] [Server thread/INFO]: ClayGamer01 left the game
-[00:45:56] [User Authenticator #37/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
-[00:45:56] [Server thread/INFO]: ClayGamer01[/66.235.2.149:54270] logged in with entity id 53988 at (-252.46907502171854, 20.0, 309.1879429574429)
-[00:45:56] [Server thread/INFO]: ClayGamer01 joined the game
-[00:46:05] [Server thread/INFO]: Quindolin lost connection: Disconnected
-[00:46:05] [Server thread/INFO]: Quindolin left the game
-[00:46:16] [User Authenticator #38/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
-[00:46:17] [Server thread/INFO]: Quindolin[/71.15.193.70:57624] logged in with entity id 54074 at (-256.40311178912833, 77.0, 252.4788796634951)
-[00:46:17] [Server thread/INFO]: Quindolin joined the game
-[00:47:34] [Server thread/INFO]: Quindolin lost connection: Disconnected
-[00:47:34] [Server thread/INFO]: Quindolin left the game
-[00:47:36] [User Authenticator #39/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
-[00:47:36] [Server thread/INFO]: Quindolin[/71.15.193.70:57635] logged in with entity id 54388 at (-261.39338534161317, 77.0, 256.126557281308)
-[00:47:36] [Server thread/INFO]: Quindolin joined the game
-[00:47:40] [Server thread/INFO]: Quindolin lost connection: Disconnected
-[00:47:40] [Server thread/INFO]: Quindolin left the game
-[00:47:52] [User Authenticator #40/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
-[00:47:53] [Server thread/INFO]: Quindolin[/71.15.193.70:57641] logged in with entity id 54471 at (-262.4986357350991, 77.0, 255.10639486899942)
-[00:47:53] [Server thread/INFO]: Quindolin joined the game
-[00:49:33] [User Authenticator #41/INFO]: UUID of player cqite is 88367f38-6c8d-4ae3-a6ba-97d206695e87
-[00:49:33] [Server thread/INFO]: cqite[/75.111.22.225:53013] logged in with entity id 54917 at (-279.32498029557047, 83.79673560066871, 160.79271464006746)
-[00:49:33] [Server thread/INFO]: cqite joined the game
-[00:49:40] [Server thread/INFO]: Quindolin lost connection: Disconnected
-[00:49:40] [Server thread/INFO]: Quindolin left the game
-[00:50:33] [User Authenticator #42/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
-[00:50:33] [Server thread/INFO]: Quindolin[/71.15.193.70:57658] logged in with entity id 55563 at (-260.6698129426167, 85.0, 244.1941539250353)
-[00:50:33] [Server thread/INFO]: Quindolin joined the game
-[00:56:53] [Server thread/INFO]: <Quindolin> sleep?
-[00:56:56] [Server thread/INFO]: <cqite> sure
-[00:57:08] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
-[00:57:08] [Server thread/INFO]: ClayGamer01 left the game
-[00:57:14] [Server thread/INFO]: <Quindolin> thanks
-[01:04:03] [Server thread/INFO]: Quindolin lost connection: Disconnected
-[01:04:03] [Server thread/INFO]: Quindolin left the game
-[01:08:46] [Server thread/INFO]: cqite has made the advancement [Diamonds!]
-[01:10:49] [Server thread/INFO]: cqite was blown up by Creeper
-[01:10:52] [Server thread/INFO]: <cqite> oh
-[01:25:26] [User Authenticator #43/INFO]: UUID of player Guge1492 is 88d160a3-7736-482c-a1ca-de5ec129b345
-[01:25:26] [Server thread/INFO]: Guge1492[/75.111.22.225:55911] logged in with entity id 65780 at (-255.00844950894262, 84.0, -128.57669060219098)
-[01:25:26] [Server thread/INFO]: Guge1492 joined the game
-[01:35:00] [User Authenticator #44/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
-[01:35:00] [Server thread/INFO]: ClayGamer01[/66.235.2.149:54558] logged in with entity id 67787 at (-257.0887138854369, 17.0, 307.92042525371113)
-[01:35:00] [Server thread/INFO]: ClayGamer01 joined the game
-[01:35:11] [Server thread/INFO]: Guge1492 has made the advancement [Suit Up]
-[01:35:33] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
-[01:35:50] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[01:40:45] [Server thread/INFO]: cqite has made the advancement [Cover Me With Diamonds]
-[01:44:38] [Server thread/INFO]: Guge1492 has made the advancement [Acquire Hardware]
-[01:45:40] [Server thread/INFO]: Guge1492 has made the advancement [Not Today, Thank You]
-[01:48:04] [Server thread/INFO]: cqite has made the advancement [Ice Bucket Challenge]
-[01:48:22] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-257, y=18, z=291} fx{x=-258, y=18, z=292}
-[01:48:29] [Server thread/INFO]: Guge1492 has made the advancement [Isn't It Iron Pick]
-[01:53:02] [User Authenticator #45/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
-[01:53:02] [Server thread/INFO]: Quindolin[/71.15.193.70:58354] logged in with entity id 76747 at (-272.71010006526643, 82.0, 244.9279674413374)
-[01:53:02] [Server thread/INFO]: Quindolin joined the game
-[01:53:07] [Server thread/INFO]: <ClayGamer01> 4 PEOPLE
-[01:53:10] [Server thread/INFO]: <ClayGamer01> NEW RECORD
-[01:53:22] [Server thread/INFO]: <Quindolin> nice
-[01:53:23] [Server thread/INFO]: <Guge1492> yay
-[01:53:34] [Server thread/ERROR]: Exception loading structure piece with id minecraft:jigsaw
-java.util.ConcurrentModificationException: null
-	at java.util.HashMap.computeIfAbsent(HashMap.java:1134) ~[?:?]
-	at cvp.b(SourceFile:63) ~[server.jar:?]
-	at cvp.a(SourceFile:53) ~[server.jar:?]
-	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[server.jar:?]
-	at crb.a(SourceFile:83) ~[server.jar:?]
-	at crb.a(SourceFile:116) ~[server.jar:?]
-	at cuh.<init>(SourceFile:53) ~[server.jar:?]
-	at cns.a(SourceFile:149) ~[server.jar:?]
-	at ciq.a(SourceFile:414) ~[server.jar:?]
-	at ciq.a(SourceFile:174) ~[server.jar:?]
-	at aaa.l(SourceFile:519) ~[server.jar:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1700) ~[?:?]
-	at aol.c(SourceFile:144) ~[server.jar:?]
-	at aam$a.c(SourceFile:545) ~[server.jar:?]
-	at aol.y(SourceFile:118) ~[server.jar:?]
-	at aam$a.y(SourceFile:554) ~[server.jar:?]
-	at aam.d(SourceFile:280) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.bd(SourceFile:749) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.y(SourceFile:737) ~[server.jar:?]
-	at aol.c(SourceFile:127) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.x(SourceFile:722) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.w(SourceFile:674) ~[server.jar:?]
-	at net.minecraft.server.MinecraftServer.a(SourceFile:258) ~[server.jar:?]
-	at java.lang.Thread.run(Thread.java:834) [?:?]
-[01:54:12] [Server thread/WARN]: Guge1492 moved too quickly! -9.70062314579576,-1.3015347236627903,-2.2745380962904846
-[01:57:17] [Server thread/INFO]: <Quindolin> are you guys on a call?
-[01:57:20] [Server thread/INFO]: <cqite> nope
-[01:57:45] [Server thread/INFO]: <Quindolin> these trees fianlly grew
-[01:57:53] [Server thread/INFO]: <Quindolin> so I can continue building
-[01:58:02] [Server thread/INFO]: <ClayGamer01> goooooooooooooooooooood
-[02:06:48] [Server thread/INFO]: Guge1492 lost connection: Disconnected
-[02:06:48] [Server thread/INFO]: Guge1492 left the game
-[02:06:51] [Server thread/INFO]: <cqite> brb
-[02:06:52] [Server thread/INFO]: cqite lost connection: Disconnected
-[02:06:52] [Server thread/INFO]: cqite left the game
-[02:17:29] [Server thread/INFO]: <ClayGamer01> have you seen any swamps?
-[02:18:08] [Server thread/INFO]: <Quindolin> go in the - - direction
-[02:20:28] [Server thread/INFO]: <ClayGamer01> hello
-[02:20:33] [Server thread/INFO]: <Quindolin> howdy
-[02:22:40] [Server thread/INFO]: <Quindolin> call?
-[02:22:44] [Server thread/INFO]: <ClayGamer01> yeah, one sec
-[02:24:16] [Server thread/INFO]: <ClayGamer01> in general
-[02:27:35] [User Authenticator #46/INFO]: UUID of player Guge1492 is 88d160a3-7736-482c-a1ca-de5ec129b345
-[02:27:35] [Server thread/INFO]: Guge1492[/75.111.22.225:59515] logged in with entity id 86545 at (-613.1499725043985, 63.0, 206.05698602013643)
-[02:27:35] [Server thread/INFO]: Guge1492 joined the game
-[02:29:13] [Server thread/INFO]: Guge1492 lost connection: Disconnected
-[02:29:13] [Server thread/INFO]: Guge1492 left the game
-[02:30:49] [User Authenticator #47/INFO]: UUID of player cqite is 88367f38-6c8d-4ae3-a6ba-97d206695e87
-[02:30:49] [Server thread/INFO]: cqite[/75.111.22.225:54599] logged in with entity id 87834 at (-438.5668159881021, 84.0, 166.57153200875482)
-[02:30:49] [Server thread/INFO]: cqite joined the game
-[02:31:53] [User Authenticator #48/INFO]: UUID of player Guge1492 is 88d160a3-7736-482c-a1ca-de5ec129b345
-[02:31:53] [Server thread/INFO]: Guge1492[/75.111.22.225:59612] logged in with entity id 88495 at (-613.6737471099452, 50.0, 202.30000001192093)
-[02:31:53] [Server thread/INFO]: Guge1492 joined the game
-[02:33:41] [Server thread/INFO]: Guge1492 lost connection: Disconnected
-[02:33:41] [Server thread/INFO]: Guge1492 left the game
-[02:34:35] [User Authenticator #49/INFO]: UUID of player Guge1492 is 88d160a3-7736-482c-a1ca-de5ec129b345
-[02:34:35] [Server thread/INFO]: Guge1492[/75.111.22.225:59854] logged in with entity id 89600 at (-498.1791779324427, 55.0, 185.30000001192093)
-[02:34:35] [Server thread/INFO]: Guge1492 joined the game
-[02:37:04] [Server thread/INFO]: <Guge1492> hello
-[02:37:07] [Server thread/INFO]: <cqite> why are half of you just inside my base
-[02:37:11] [Server thread/INFO]: <Quindolin> is this yours?
-[02:37:11] [Server thread/INFO]: <Guge1492> nice armor
-[02:37:13] [Server thread/INFO]: <Guge1492> no
-[02:37:14] [Server thread/INFO]: <cqite> its mine
-[02:37:23] [Server thread/INFO]: <Quindolin> ahh
-[02:37:28] [Server thread/INFO]: <Quindolin> o thanks
-[02:37:36] [Server thread/INFO]: <Quindolin> zombie hand me downs
-[02:43:59] [Server thread/INFO]: Quindolin lost connection: Disconnected
-[02:43:59] [Server thread/INFO]: Quindolin left the game
-[02:44:54] [User Authenticator #50/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
-[02:44:55] [Server thread/INFO]: Quindolin[/71.15.193.70:58872] logged in with entity id 94065 at (-254.5830804377999, 84.0, 252.0860613980626)
-[02:44:55] [Server thread/INFO]: Quindolin joined the game
-[02:48:29] [Server thread/INFO]: Quindolin lost connection: Disconnected
-[02:48:29] [Server thread/INFO]: Quindolin left the game
-[02:48:42] [User Authenticator #51/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
-[02:48:43] [Server thread/INFO]: Quindolin[/71.15.193.70:58941] logged in with entity id 97031 at (-252.9231851935578, 85.0, 253.72535510685202)
-[02:48:43] [Server thread/INFO]: Quindolin joined the game
-[02:49:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[02:49:52] [Server thread/INFO]: ClayGamer01 lost connection: Timed out
-[02:49:52] [Server thread/INFO]: ClayGamer01 left the game
-[02:50:04] [User Authenticator #52/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
-[02:50:04] [Server thread/INFO]: ClayGamer01[/66.235.2.149:54901] logged in with entity id 97628 at (-250.30000001192093, 13.0, 295.3489569814757)
-[02:50:04] [Server thread/INFO]: ClayGamer01 joined the game
-[02:53:14] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-300, y=69, z=-166} fx{x=-301, y=68, z=-166}
-[02:53:14] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-300, y=69, z=-166} fx{x=-301, y=68, z=-166}
-[02:53:59] [Server thread/INFO]: <cqite> anyone know what happened a the spawn shack?
-[02:54:05] [Server thread/INFO]: <cqite> the farms all gone and the cows were let loose
-[02:54:27] [Server thread/INFO]: <ClayGamer01> Quinn griefed
-[02:54:40] [Server thread/INFO]: <Quindolin> I took the wheat and cows for the new farm
-[02:54:45] [Server thread/INFO]: <cqite> rip
-[02:54:57] [Server thread/INFO]: <Quindolin> but you can use the new farm and cows and stuff
-[02:55:05] [Server thread/INFO]: <cqite> kk
-[02:55:43] [Server thread/INFO]: Quindolin was blown up by Creeper
-[02:56:05] [Server thread/INFO]: cqite was shot by Skeleton
-[02:56:50] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-403, y=75, z=116} fx{x=-402, y=74, z=114}
-[02:57:37] [Server thread/INFO]: Guge1492 has made the advancement [Diamonds!]
-[02:59:05] [Server thread/INFO]: Quindolin was blown up by Creeper
-[02:59:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3337ms or 66 ticks behind
-[03:02:52] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! 0.7083800981328778,0.0,10.375776126792516
-[03:02:52] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! 0.7356254865226077,0.0,10.774844439361459
-[03:02:52] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! 0.7628708749123376,0.0,11.173912751930402
-[03:02:52] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! 0.7901162633020675,0.0,11.572981064499345
-[03:02:52] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! 0.8173616516917974,0.0,11.972049377068288
-[03:02:52] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! 0.8446070400815273,0.0,12.37111768963723
-[03:02:52] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! 0.8718524284712572,0.0,12.770186002206174
-[03:02:52] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! 0.8990978168609871,0.0,13.169254314775117
-[03:02:52] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! 0.926343205250717,0.0,13.56832262734406
-[03:02:52] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! 0.9535885936404469,0.0,13.967390939913003
-[03:02:52] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! 0.9808339820301768,0.0,14.366459252481945
-[03:02:52] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! 1.0080793704199067,0.0,14.765527565050888
-[03:02:52] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! 1.0353247588096366,0.0,15.164595877619831
-[03:02:52] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! 1.0625701471993665,0.0,15.563664190188774
-[03:02:52] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! 1.0898155355890964,0.0,15.962732502757717
-[03:02:57] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
-[03:03:17] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[03:04:18] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -6.033968082912098,0.0,8.470606050944298
-[03:04:18] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -6.2660437784087275,0.0,8.796398591365232
-[03:04:18] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -6.498119473905357,0.0,9.122191131786167
-[03:04:18] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -6.730195169401986,0.0,9.447983672207101
-[03:04:18] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -6.962270864898615,0.0,9.773776212628036
-[03:04:18] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -7.194346560395246,0.0,10.09956875304897
-[03:04:18] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -7.426422255891877,0.0,10.425361293469905
-[03:04:18] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -7.658497951388508,0.0,10.75115383389084
-[03:04:18] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -7.890573646885139,0.0,11.076946374311774
-[03:04:18] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -8.12264934238177,0.0,11.402738914732709
-[03:04:18] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -8.354725037878401,0.0,11.728531455153643
-[03:04:18] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -8.586800733375032,0.0,12.054323995574578
-[03:04:18] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -8.818876428871663,0.0,12.380116535995512
-[03:04:18] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -9.050952124368294,0.0,12.705909076416447
-[03:04:18] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -9.283027819864925,0.0,13.031701616837381
-[03:04:18] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -9.515103515361556,0.0,13.357494157258316
-[03:04:18] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -9.747179210858187,0.0,13.68328669767925
-[03:04:18] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -9.979254906354818,0.0,14.009079238100185
-[03:04:18] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -10.211330601851449,0.0,14.33487177852112
-[03:04:18] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -10.44340629734808,0.0,14.660664318942054
-[03:04:18] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -10.67548199284471,0.0,14.986456859362988
-[03:04:18] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -10.907557688341342,0.0,15.312249399783923
-[03:04:18] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -11.139633383837973,0.0,15.638041940204857
-[03:04:18] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -11.371709079334604,0.0,15.963834480625792
-[03:04:18] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -11.603784774831235,0.0,16.289627021046726
-[03:04:18] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -11.835860470327868,0.0,16.61541956146766
-[03:04:18] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -12.0679361658245,0.0,16.941212101888595
-[03:04:18] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -12.30001186132113,0.0,17.26700464230953
-[03:04:18] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -12.532087556817762,0.0,17.592797182730465
-[03:04:18] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -12.764163252314395,0.0,17.9185897231514
-[03:04:18] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -12.996238947811028,0.0,18.244382263572334
-[03:04:18] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -13.22831464330766,0.0,18.570174803993268
-[03:04:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2801ms or 56 ticks behind
-[03:04:18] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -7.658497951388824,0.0,10.75115383389084
-[03:04:50] [Server thread/WARN]: Boat (vehicle of Guge1492) moved wrongly! 0.35524642195701694
-[03:04:50] [Server thread/WARN]: Boat (vehicle of Guge1492) moved wrongly! 0.35524642195701694
-[03:04:50] [Server thread/WARN]: Boat (vehicle of Guge1492) moved wrongly! 0.35524642195701694
-[03:08:25] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-296, y=69, z=201} fx{x=-295, y=70, z=201}
-[03:08:46] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
-[03:08:46] [Server thread/INFO]: ClayGamer01 left the game
-[03:08:49] [User Authenticator #53/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
-[03:08:49] [Server thread/INFO]: ClayGamer01[/66.235.2.149:54935] logged in with entity id 111893 at (-290.8639838317107, 83.0, 203.83073758929754)
-[03:08:49] [Server thread/INFO]: ClayGamer01 joined the game
-[03:09:21] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -8.253434185533422,0.0,-6.324705431156417
-[03:09:21] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -8.570920779389496,0.0,-6.5679992091572785
-[03:09:21] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -8.888408398104701,0.0,-6.811293772520003
-[03:09:21] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -9.205896939193053,0.0,-7.054589042708358
-[03:09:21] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -9.523386310417237,0.0,-7.297884949039599
-[03:09:21] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -9.840876428763636,0.0,-7.5411814278995735
-[03:09:21] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -10.158367219520045,0.0,-7.7844784220355905
-[03:09:21] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -10.475858615445446,0.0,-8.027775879919773
-[03:09:21] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -10.793350556022887,0.0,-8.27107375517744
-[03:09:21] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -11.110842986787162,0.0,-8.514372006070971
-[03:09:21] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -11.428335858719606,0.0,-8.75767059503687
-[03:09:21] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -11.74582912770336,0.0,-9.00096948826831
-[03:09:21] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -12.063322754033294,0.0,-9.244268655338146
-[03:09:21] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -12.380816701974766,0.0,-9.487568068862856
-[03:09:21] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -12.69831093936665,0.0,-9.730867704196953
-[03:09:21] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -13.01580543726385,0.0,-9.974167539159225
-[03:09:21] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -13.333300169615882,0.0,-10.217467553787174
-[03:09:21] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -13.650795112977221,0.0,-10.460767730114185
-[03:09:21] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -13.968290246246937,0.0,-10.704068051969898
-[03:09:21] [Server thread/WARN]: Boat (vehicle of Guge1492) moved too quickly! -14.285785550434184,0.0,-10.947368504801943
-[03:09:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2332ms or 46 ticks behind
-[03:10:03] [Server thread/INFO]: cqite has made the advancement [Enchanter]
-[03:12:36] [Server thread/INFO]: Quindolin was shot by Stray
-[03:13:56] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
-[03:13:56] [Server thread/INFO]: ClayGamer01 left the game
-[03:14:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
-[03:15:10] [Server thread/INFO]: cqite has made the advancement [Not Today, Thank You]
-[03:18:10] [Server thread/INFO]: Guge1492 has made the advancement [A Seedy Place]
-[03:18:21] [User Authenticator #54/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
-[03:18:21] [Server thread/INFO]: ClayGamer01[/66.235.2.149:54948] logged in with entity id 120293 at (-253.42054443794805, 11.0, 289.30000001192093)
-[03:18:21] [Server thread/INFO]: ClayGamer01 joined the game
-[03:19:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-150, y=64, z=1628} fx{x=-150, y=62, z=1628}
-[03:19:21] [Server thread/INFO]: Guge1492 lost connection: Disconnected
-[03:19:21] [Server thread/INFO]: Guge1492 left the game
-[03:19:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
-[03:19:41] [User Authenticator #55/INFO]: UUID of player Guge1492 is 88d160a3-7736-482c-a1ca-de5ec129b345
-[03:19:41] [Server thread/INFO]: Guge1492[/75.111.22.225:64527] logged in with entity id 121336 at (-185.30000001192093, 63.0, 1638.9319496282294)
-[03:19:41] [Server thread/INFO]: Guge1492 joined the game
-[03:19:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2108ms or 42 ticks behind
-[03:20:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[03:21:06] [Server thread/INFO]: Guge1492 has made the advancement [What a Deal!]
-[03:24:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2354ms or 47 ticks behind
-[03:26:28] [Server thread/INFO]: Villager bfz['Villager'/123781, l='ServerLevel[world]', x=-981.66, y=63.56, z=158.66] died, message: 'Villager suffocated in a wall'
-[03:26:50] [Server thread/INFO]: cqite has made the advancement [Hot Stuff]
-[03:29:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[03:30:13] [Server thread/INFO]: cqite has made the advancement [We Need to Go Deeper]
-[03:31:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
-[03:32:13] [Server thread/INFO]: cqite was slain by Enderman
-[03:32:18] [Server thread/INFO]: <cqite> ow
-[03:33:42] [Server thread/INFO]: Guge1492 has made the advancement [Best Friends Forever]
-[03:34:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
-[03:35:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[03:35:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[03:35:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[03:36:52] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.5308682065694939
-[03:39:10] [Server thread/INFO]: cqite was slain by Enderman
-[03:41:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2095ms or 41 ticks behind
-[03:41:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3017ms or 60 ticks behind
-[03:42:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[03:43:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3491ms or 69 ticks behind
-[03:43:01] [Server thread/INFO]: cqite was slain by Piglin
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! 2.497646004567514,-4.0,-9.088672873446285
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! 2.659302398525483,-4.0,-9.61397882505662
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! 2.8185644618180277,-4.0,-10.14146059313839
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! 2.976545366509299,-4.076832001495362,-10.670106597232916
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! 3.0682358942386827,-4.227453458663007,-10.977649233894454
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! 3.1571636046529648,-4.448942310437602,-11.276590465108484
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! 3.243627434514451,-4.738492209317357,-11.567860962723444
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! 3.3278939756357886,-5.0,-11.852290699917376
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! 3.474623831424765,-5.0,-12.352692139194005
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! 3.6223718137358674,-5.0,-12.867862251498991
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! 3.767123252760598,-5.0,-13.391898564797884
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! 3.9102713012173353,-5.0,-13.92067900547545
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! 4.052561407349344,-5.0,-14.451997934125757
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! 4.194392445648873,-5.0,-14.984675157078073
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! 4.33597784590404,-5.0,-15.51807917623023
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! 4.477431810139251,-5.0,-16.051872089537937
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! 4.618815445580708,-5.0,-16.585873092354632
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.4781895109138077
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 1.5406895109138077
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 1.5406895109138077
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 1.5406895109138077
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 1.5406895109138077
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 1.5406895109138077
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 1.5406895109138077
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 1.5406895109138077
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 1.5406895109138077
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 1.5406895109138077
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 1.5406895109138077
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 1.5406895109138077
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 1.5406895109138077
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 1.5406895109138077
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 1.5406895109138077
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 1.5406895109138077
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 1.5406895109138077
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 1.0064857061699968
-[03:44:56] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.4722648435381416
-[03:44:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2135ms or 42 ticks behind
-[03:45:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2148ms or 42 ticks behind
-[03:45:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2124ms or 42 ticks behind
-[03:46:24] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.346181648093534
-[03:46:24] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.8124200856316861
-[03:46:24] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 1.288547871121125
-[03:47:20] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.48721799908966545
-[03:47:20] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 1.041014899153339
-[03:47:29] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.2598387565012956
-[03:47:29] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.6596010932498757
-[03:47:29] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 1.1344820397273452
-[03:47:34] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.3026540211820361
-[03:47:34] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.3392446331779979
-[03:47:34] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.3440546365740147
-[03:47:34] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.8709850317795258
-[03:47:34] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 1.398395459503547
-[03:50:28] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.39864308417861594
-[03:50:28] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.9610835836029139
-[03:50:28] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 1.495607510177308
-[03:50:35] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.3344417857297515
-[03:50:35] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.7998365700988757
-[03:50:35] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 1.2472078251479672
-[03:50:38] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.27313450083357793
-[03:50:39] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.7576161355461295
-[03:50:39] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 1.2539315482127904
-[03:51:29] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.25199537251691595
-[03:51:29] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.7132139980904526
-[03:51:29] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.41363349115337655
-[03:51:29] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.8438038127677885
-[03:51:29] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.3970201627412564
-[03:51:29] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.3939215795765847
-[03:51:29] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.39226358950426743
-[03:51:29] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.3913764320733151
-[03:51:29] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.8096374451318695
-[03:51:29] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.39064772917902246
-[03:51:29] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.8085188278475925
-[03:51:29] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.3904390937629785
-[03:51:29] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.3879939963021286
-[03:51:29] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.7813498256171556
-[03:51:29] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.343983218344988
-[03:51:29] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.2694704683640623
-[03:51:29] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.5824115490820247
-[03:51:30] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.6435308455710071
-[03:52:01] [Server thread/WARN]: Horse (vehicle of cqite) moved wrongly! 0.31499154235990545
-[03:52:01] [Server thread/WARN]: Horse (vehicle of cqite) moved wrongly! 0.7553451376824114
-[03:52:03] [Server thread/WARN]: Horse (vehicle of cqite) moved wrongly! 0.34581306117644317
-[03:52:03] [Server thread/WARN]: Horse (vehicle of cqite) moved wrongly! 0.8007236522957442
-[03:52:03] [Server thread/WARN]: Horse (vehicle of cqite) moved wrongly! 0.3491485835503738
-[03:52:03] [Server thread/WARN]: Horse (vehicle of cqite) moved wrongly! 0.8037901678817434
-[03:52:03] [Server thread/WARN]: Horse (vehicle of cqite) moved wrongly! 1.2584114972973452
-[03:52:39] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.40887925865621355
-[03:52:39] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.9373127803224577
-[03:54:09] [Server thread/INFO]: <Quindolin> ????????4
-[03:54:17] [Server thread/INFO]: <Guge1492> what
-[03:54:24] [Server thread/INFO]: <Guge1492> I have horse on roof
-[03:54:29] [Server thread/INFO]: <Quindolin> lol
-[03:54:44] [Server thread/INFO]: Quindolin was slain by Zombie
-[03:54:49] [Server thread/INFO]: Guge1492 has made the advancement [Take Aim]
-[03:55:00] [Server thread/INFO]: <Quindolin> noooooooooooo
-[03:55:16] [Server thread/INFO]: <Guge1492> you exploded
-[03:57:01] [Server thread/INFO]: <ClayGamer01> There is an ender chest in the mining hut if anyone wants to use it
-[03:57:23] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.2509443966039271
-[03:57:23] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.6361641365391506
-[03:57:48] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.25836919422658866
-[03:57:48] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.7978261253628034
-[03:57:48] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.3376843747651037
-[04:01:29] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.45446402567017685
-[04:01:29] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.9783747484327705
-[04:01:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
-[04:03:15] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.26592886496320034
-[04:03:15] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.6908090650760528
-[04:04:20] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.5534737163152101
-[04:04:20] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 1.1070261476619692
-[04:04:25] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.2695426618982424
-[04:04:25] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.7570081064919805
-[04:04:25] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.2649284386668569
-[04:04:25] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.5188653346930892
-[04:04:25] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.5247217873208001
-[04:04:25] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.5278554583567825
-[04:04:58] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.45103975378708583
-[04:04:58] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.9805338982994272
-[04:04:58] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.5100393385727671
-[04:05:03] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -6.203692460120692,0.0,7.898847017477351
-[04:05:03] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -6.207221491365601,0.0,7.943999788648171
-[04:05:03] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -6.207221491365601,0.0,7.96816013625255
-[04:14:38] [Server thread/INFO]: Quindolin was slain by Zombie
-[04:17:49] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -4.138556387681604,1.0582277582535227,9.42866272639614
-[04:17:52] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -0.31088993953659383,0.0,10.21409406004198
-[04:17:52] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -0.38858339961399224,0.0,10.62305255649811
-[04:17:52] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -0.4486391515283117,0.0,11.038905461759946
-[04:17:52] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -0.49328018067103585,0.0,11.460783832429833
-[04:17:52] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -0.5241748535544275,0.0,11.887890740848285
-[04:17:52] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -0.5427758468034085,0.0,12.319527606300255
-[04:17:52] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -0.550358531413508,0.0,12.75508338828179
-[04:17:52] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -0.5477584583452995,0.0,13.193979208337993
-[04:17:52] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -0.5377004527093163,0.0,13.635656353899911
-[04:17:52] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -0.5183011359964098,0.0,14.079666194011644
-[04:17:52] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -0.4907378492686121,0.0,14.525714725287997
-[04:17:52] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -0.45603954628296606,0.0,14.973544999341172
-[04:17:53] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -4.577117328329223,0.0,14.293454895989036
-[04:17:53] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -4.577117328329223,0.0,14.293454895989036
-[04:17:53] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -4.577117328329223,0.0,14.293454895989036
-[04:17:53] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -4.577117328329223,0.0,14.293454895989036
-[04:17:53] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -4.577117328329223,0.0,14.293454895989036
-[04:17:53] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -4.577117328329223,0.0,14.293454895989036
-[04:17:53] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -4.577117328329223,0.0,14.293454895989036
-[04:17:53] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -4.577117328329223,0.0,14.293454895989036
-[04:17:53] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -4.577117328329223,0.0,14.293454895989036
-[04:17:53] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -4.577117328329223,0.0,14.293454895989036
-[04:17:53] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -4.577117328329223,0.0,14.293454895989036
-[04:17:53] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -4.577117328329223,0.0,14.293454895989036
-[04:17:53] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -4.5726543728812885,0.0,14.246431130664739
-[04:17:53] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -4.5997011316367775,0.0,14.531408305841225
-[04:17:53] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -4.6233390263241745,0.0,14.780468110604751
-[04:17:53] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -4.643997696381575,0.0,14.998137425034685
-[04:17:53] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -4.662052631230267,0.0,15.188372579556642
-[04:18:03] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! 3.624046554342442,0.0,9.757822934365606
-[04:18:03] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! 3.7121357806201445,0.0,10.303281900656046
-[04:18:03] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! 3.799476316674486,0.0,10.8489007494032
-[04:18:03] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! 3.8864162435175444,0.0,11.394605148065224
-[04:18:03] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! 3.9683178318471732,0.0,11.941072781581298
-[04:18:03] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! 4.02809294526736,0.0,12.489901110697389
-[04:18:03] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! 4.052861218669079,0.0,13.040386896263769
-[04:18:03] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! 3.998659287821056,0.0,13.582847588654317
-[04:18:46] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.4153391488503644
-[04:18:46] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 0.9338101225081346
-[04:18:46] [Server thread/WARN]: Horse (vehicle of Guge1492) moved wrongly! 1.0
-[04:19:26] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
-[04:19:26] [Server thread/INFO]: ClayGamer01 left the game
-[04:19:32] [User Authenticator #56/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
-[04:19:33] [Server thread/INFO]: ClayGamer01[/66.235.2.149:55567] logged in with entity id 159283 at (-687.0354349737516, 70.0, -391.8997510927082)
-[04:19:33] [Server thread/INFO]: ClayGamer01 joined the game
-[04:20:03] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -4.332929129487525,0.2274534586630068,9.248132049353927
-[04:20:03] [Server thread/WARN]: Horse (vehicle of Guge1492) moved too quickly! -4.514320388716442,0.2274534586630068,9.770113412908842
-[04:20:30] [Server thread/INFO]: [ClayGamer01: Gave 2 [Villager Spawn Egg] to ClayGamer01]
-[04:25:08] [Server thread/INFO]: Quindolin lost connection: Disconnected
-[04:25:08] [Server thread/INFO]: Quindolin left the game
-[04:27:25] [User Authenticator #57/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
-[04:27:25] [Server thread/INFO]: Quindolin[/71.15.193.70:62753] logged in with entity id 163380 at (-70.41682619531197, 33.0, -48.77135199572166)
-[04:27:25] [Server thread/INFO]: Quindolin joined the game
-[04:29:24] [Server thread/INFO]: cqite lost connection: Disconnected
-[04:29:24] [Server thread/INFO]: cqite left the game
-[04:29:26] [Server thread/INFO]: <Quindolin> looks good
-[04:33:58] [Server thread/INFO]: Guge1492 lost connection: Disconnected
-[04:33:58] [Server thread/INFO]: Guge1492 left the game
-[04:36:02] [Server thread/INFO]: Quindolin was blown up by Creeper
-[04:38:19] [Server thread/INFO]: [ClayGamer01: Gamerule mobGriefing is now set to: true]
-[04:38:47] [Server thread/INFO]: [ClayGamer01: Gamerule mobGriefing is now set to: false]
-[04:47:19] [Server thread/INFO]: Quindolin lost connection: Disconnected
-[04:47:19] [Server thread/INFO]: Quindolin left the game
-[04:48:02] [User Authenticator #58/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
-[04:48:02] [Server thread/INFO]: Quindolin[/71.15.193.70:62862] logged in with entity id 169991 at (-273.3158195057659, 83.0, 244.14255538035187)
-[04:48:02] [Server thread/INFO]: Quindolin joined the game
-[04:51:14] [Server thread/INFO]: <Quindolin> slepep?
-[04:58:56] [Server thread/INFO]: [ClayGamer01: Set the weather to rain]
-[05:03:00] [Server thread/INFO]: Quindolin lost connection: Disconnected
-[05:03:00] [Server thread/INFO]: Quindolin left the game
-[05:19:48] [Server thread/INFO]: [ClayGamer01: Set the weather to rain]
-[05:40:01] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
-[06:08:06] [Server thread/INFO]: Stopping the server
-[06:08:06] [Server thread/INFO]: Stopping server
-[06:08:06] [Server thread/INFO]: Saving players
-[06:08:06] [Server thread/INFO]: Saving worlds
-[06:08:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[06:08:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[06:08:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[06:08:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06:08:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[06:08:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[06:08:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[06:08:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[06:08:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:05:13] [Server thread/INFO]: [ClayGamer01: Set the weather to clear]
+[00:10:18] [Server thread/INFO]: [ClayGamer01: Set the weather to clear]
+[00:26:24] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
+[00:47:16] [Server thread/INFO]: [ClayGamer01: Set the time to 1000]
+[00:54:47] [User Authenticator #7/INFO]: UUID of player cqite is 88367f38-6c8d-4ae3-a6ba-97d206695e87
+[00:54:47] [Server thread/INFO]: cqite[/75.111.22.225:58387] logged in with entity id 34066 at (-437.57171482469147, 97.0, 165.93533730532096)
+[00:54:47] [Server thread/INFO]: cqite joined the game
+[00:55:49] [Server thread/INFO]: <cqite> you grew a beard
+[00:55:57] [Server thread/INFO]: <ClayGamer01> yes
+[00:56:20] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
+[00:56:36] [Server thread/INFO]: cqite fell from a high place
+[00:56:41] [Server thread/INFO]: <ClayGamer01> uh oh
+[00:56:44] [Server thread/INFO]: <cqite> didnt happen
+[00:56:59] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
+[01:02:30] [Server thread/INFO]: cqite lost connection: Disconnected
+[01:02:30] [Server thread/INFO]: cqite left the game
+[01:17:22] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
+[01:25:59] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[01:25:59] [Server thread/INFO]: ClayGamer01 left the game
+[01:43:43] [User Authenticator #8/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[01:43:43] [Server thread/INFO]: ClayGamer01[/66.235.2.149:64108] logged in with entity id 39508 at (-275.1066422585444, 87.0, 222.44802768196902)
+[01:43:43] [Server thread/INFO]: ClayGamer01 joined the game
+[02:07:25] [Server thread/INFO]: [ClayGamer01: Set the weather to clear]
+[02:12:30] [Server thread/INFO]: [ClayGamer01: Set the weather to clear]
+[02:17:38] [Server thread/INFO]: [ClayGamer01: Set the weather to clear]
+[02:50:14] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[02:50:14] [Server thread/INFO]: ClayGamer01 left the game
+[02:58:28] [User Authenticator #9/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[02:58:28] [Server thread/INFO]: ClayGamer01[/66.235.2.149:55071] logged in with entity id 46732 at (-255.31115815204487, 93.0, 215.81420599718274)
+[02:58:28] [Server thread/INFO]: ClayGamer01 joined the game
+[02:58:57] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
+[03:00:48] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
+[03:04:49] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
+[03:06:23] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
+[03:08:15] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
+[03:16:11] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[03:16:11] [Server thread/INFO]: ClayGamer01 left the game
+[03:19:44] [User Authenticator #10/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[03:19:45] [Server thread/INFO]: ClayGamer01[/66.235.2.149:64888] logged in with entity id 48575 at (-228.7149920876104, 73.0, 191.83346923376894)
+[03:19:45] [Server thread/INFO]: ClayGamer01 joined the game
+[03:24:14] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[03:24:14] [Server thread/INFO]: ClayGamer01 left the game
+[06:17:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@494b993d[id=<null>,name=ClayGamer01,properties={},legacy=false] (/66.235.2.149:54071) lost connection: Disconnected
+[06:18:13] [User Authenticator #11/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[06:18:13] [Server thread/INFO]: ClayGamer01[/66.235.2.149:52139] logged in with entity id 49396 at (-228.1795625331658, 64.0, 197.36326431263393)
+[06:18:13] [Server thread/INFO]: ClayGamer01 joined the game
+[07:09:50] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
+[07:10:45] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
+[07:12:01] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
+[07:14:39] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
+[07:18:51] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
+[07:19:34] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
+[07:22:07] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
+[07:51:07] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
+[07:56:19] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
+[08:18:23] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
+[08:19:25] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
+[08:20:50] [Server thread/INFO]: [ClayGamer01: Set the weather to clear]
+[08:34:53] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
+[08:34:56] [Server thread/INFO]: [ClayGamer01: Set the weather to clear]
+[08:36:28] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
+[08:41:02] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
+[08:44:10] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
+[08:53:15] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-273, y=86, z=227} fx{x=-272, y=85, z=226}
+[08:54:36] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
+[09:01:48] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
+[09:13:12] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[09:13:12] [Server thread/INFO]: ClayGamer01 left the game
+[20:15:08] [Server thread/INFO]: Stopping the server
+[20:15:08] [Server thread/INFO]: Stopping server
+[20:15:08] [Server thread/INFO]: Saving players
+[20:15:08] [Server thread/INFO]: Saving worlds
+[20:15:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:15:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:15:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:15:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:15:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:15:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:15:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:15:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:15:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
