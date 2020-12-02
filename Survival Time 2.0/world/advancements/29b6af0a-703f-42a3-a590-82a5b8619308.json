@@ -114,21 +114,21 @@
     },
     "done": false
   },
-  "minecraft:recipes/transportation/chest_minecart": {
-    "criteria": {
-      "has_minecart": "2020-11-25 06:54:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2020-11-25 06:51:43 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
-      "slept_in_bed": "2020-11-25 07:01:50 +0000"
+      "has_minecart": "2020-11-25 06:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2020-11-25 06:42:37 +0000"
     },
     "done": true
   },
@@ -138,9 +138,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/candle": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "has_string": "2020-11-25 06:42:37 +0000"
+      "slept_in_bed": "2020-11-25 07:01:50 +0000"
     },
     "done": true
   },
@@ -156,15 +156,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2020-11-25 06:47:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2020-11-25 06:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2020-11-25 06:47:45 +0000"
     },
     "done": true
   },
@@ -180,15 +180,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/hopper_minecart": {
-    "criteria": {
-      "has_minecart": "2020-11-25 06:54:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2020-11-25 06:46:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2020-11-25 06:54:44 +0000"
     },
     "done": true
   },
@@ -198,15 +198,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/stone_sword": {
-    "criteria": {
-      "has_cobblestone": "2020-11-25 06:47:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2020-11-25 06:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2020-11-25 06:47:45 +0000"
     },
     "done": true
   },
@@ -222,15 +222,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_shovel": {
+  "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
-      "has_iron_ingot": "2020-11-25 06:51:43 +0000"
+      "has_snowball": "2020-11-28 02:56:56 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2020-11-25 06:46:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-25 06:51:43 +0000"
     },
     "done": true
   },
@@ -270,21 +276,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2020-11-25 06:46:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2020-11-25 06:46:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+  "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
-      "has_stone": "2020-11-25 06:46:36 +0000"
+      "has_log": "2020-11-25 06:46:48 +0000"
     },
     "done": true
   },
@@ -294,15 +294,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
-      "has_cobblestone": "2020-11-25 06:47:45 +0000"
+      "has_stone": "2020-11-25 06:46:36 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2020-11-25 06:46:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2020-11-25 06:47:45 +0000"
     },
     "done": true
   },
@@ -366,19 +372,20 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_axe": {
-    "criteria": {
-      "has_iron_ingot": "2020-11-25 06:51:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2020-11-28 03:00:59 +0000",
       "rotten_flesh": "2020-11-25 06:58:52 +0000",
       "cod": "2020-11-25 06:58:45 +0000",
       "cooked_salmon": "2020-11-25 06:47:40 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-25 06:51:43 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
@@ -398,27 +405,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lantern": {
-    "criteria": {
-      "has_iron_ingot": "2020-11-25 06:51:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2020-11-25 06:47:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod": {
+  "minecraft:recipes/decorations/lantern": {
     "criteria": {
-      "has_cod": "2020-11-25 06:58:42 +0000"
+      "has_iron_ingot": "2020-11-25 06:51:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/bucket": {
+  "minecraft:recipes/food/cooked_cod": {
     "criteria": {
-      "has_iron_ingot": "2020-11-25 06:51:43 +0000"
+      "has_cod": "2020-11-25 06:58:42 +0000"
     },
     "done": true
   },
@@ -431,6 +432,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2020-11-25 06:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-25 06:51:43 +0000"
     },
     "done": true
   },
@@ -476,9 +483,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_chestplate": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "has_iron_ingot": "2020-11-25 06:51:43 +0000"
+      "has_snowball": "2020-11-28 02:56:56 +0000"
     },
     "done": true
   },
@@ -491,6 +498,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2020-11-25 06:46:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2020-11-25 06:51:43 +0000"
     },
     "done": true
   },
@@ -518,5 +531,5 @@
     },
     "done": true
   },
-  "DataVersion": 2682
+  "DataVersion": 2683
 }

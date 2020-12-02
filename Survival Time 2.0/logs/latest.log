@@ -1,81 +1,149 @@
-[00:05:13] [Server thread/INFO]: [ClayGamer01: Set the weather to clear]
-[00:10:18] [Server thread/INFO]: [ClayGamer01: Set the weather to clear]
-[00:26:24] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
-[00:47:16] [Server thread/INFO]: [ClayGamer01: Set the time to 1000]
-[00:54:47] [User Authenticator #7/INFO]: UUID of player cqite is 88367f38-6c8d-4ae3-a6ba-97d206695e87
-[00:54:47] [Server thread/INFO]: cqite[/75.111.22.225:58387] logged in with entity id 34066 at (-437.57171482469147, 97.0, 165.93533730532096)
-[00:54:47] [Server thread/INFO]: cqite joined the game
-[00:55:49] [Server thread/INFO]: <cqite> you grew a beard
-[00:55:57] [Server thread/INFO]: <ClayGamer01> yes
-[00:56:20] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[00:56:36] [Server thread/INFO]: cqite fell from a high place
-[00:56:41] [Server thread/INFO]: <ClayGamer01> uh oh
-[00:56:44] [Server thread/INFO]: <cqite> didnt happen
-[00:56:59] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
-[01:02:30] [Server thread/INFO]: cqite lost connection: Disconnected
-[01:02:30] [Server thread/INFO]: cqite left the game
-[01:17:22] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[01:25:59] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
-[01:25:59] [Server thread/INFO]: ClayGamer01 left the game
-[01:43:43] [User Authenticator #8/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
-[01:43:43] [Server thread/INFO]: ClayGamer01[/66.235.2.149:64108] logged in with entity id 39508 at (-275.1066422585444, 87.0, 222.44802768196902)
-[01:43:43] [Server thread/INFO]: ClayGamer01 joined the game
-[02:07:25] [Server thread/INFO]: [ClayGamer01: Set the weather to clear]
-[02:12:30] [Server thread/INFO]: [ClayGamer01: Set the weather to clear]
-[02:17:38] [Server thread/INFO]: [ClayGamer01: Set the weather to clear]
-[02:50:14] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
-[02:50:14] [Server thread/INFO]: ClayGamer01 left the game
-[02:58:28] [User Authenticator #9/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
-[02:58:28] [Server thread/INFO]: ClayGamer01[/66.235.2.149:55071] logged in with entity id 46732 at (-255.31115815204487, 93.0, 215.81420599718274)
-[02:58:28] [Server thread/INFO]: ClayGamer01 joined the game
-[02:58:57] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
-[03:00:48] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
-[03:04:49] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[03:06:23] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
-[03:08:15] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[03:16:11] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
-[03:16:11] [Server thread/INFO]: ClayGamer01 left the game
-[03:19:44] [User Authenticator #10/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
-[03:19:45] [Server thread/INFO]: ClayGamer01[/66.235.2.149:64888] logged in with entity id 48575 at (-228.7149920876104, 73.0, 191.83346923376894)
-[03:19:45] [Server thread/INFO]: ClayGamer01 joined the game
-[03:24:14] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
-[03:24:14] [Server thread/INFO]: ClayGamer01 left the game
-[06:17:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@494b993d[id=<null>,name=ClayGamer01,properties={},legacy=false] (/66.235.2.149:54071) lost connection: Disconnected
-[06:18:13] [User Authenticator #11/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
-[06:18:13] [Server thread/INFO]: ClayGamer01[/66.235.2.149:52139] logged in with entity id 49396 at (-228.1795625331658, 64.0, 197.36326431263393)
-[06:18:13] [Server thread/INFO]: ClayGamer01 joined the game
-[07:09:50] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
-[07:10:45] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
-[07:12:01] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[07:14:39] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
-[07:18:51] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[07:19:34] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
-[07:22:07] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[07:51:07] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
-[07:56:19] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[08:18:23] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
-[08:19:25] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[08:20:50] [Server thread/INFO]: [ClayGamer01: Set the weather to clear]
-[08:34:53] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
-[08:34:56] [Server thread/INFO]: [ClayGamer01: Set the weather to clear]
-[08:36:28] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[08:41:02] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
-[08:44:10] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[08:53:15] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-273, y=86, z=227} fx{x=-272, y=85, z=226}
-[08:54:36] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
-[09:01:48] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
-[09:13:12] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
-[09:13:12] [Server thread/INFO]: ClayGamer01 left the game
-[20:15:08] [Server thread/INFO]: Stopping the server
-[20:15:08] [Server thread/INFO]: Stopping server
-[20:15:08] [Server thread/INFO]: Saving players
-[20:15:08] [Server thread/INFO]: Saving worlds
-[20:15:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:15:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:15:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:15:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:15:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:15:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:15:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:15:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:15:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:15:12] [User Authenticator #18/INFO]: UUID of player annapeeps9 is 602dfe5f-b145-459d-945d-904991662fd3
+[00:15:12] [Server thread/INFO]: annapeeps9[/66.235.2.149:62292] logged in with entity id 111402 at (-398.5148344589473, 75.0, 350.6656964318605)
+[00:15:12] [Server thread/INFO]: annapeeps9 joined the game
+[00:17:38] [Server thread/INFO]: [Server] fart
+[00:19:02] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:19:02] [Server thread/INFO]: summom lightning_bolt @annapeeps9<--[HERE]
+[00:19:02] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:19:02] [Server thread/INFO]: <--[HERE]
+[00:19:48] [Server thread/INFO]: Expected double
+[00:19:48] [Server thread/INFO]: ...ning_bolt @annapeeps9<--[HERE]
+[00:25:57] [Server thread/INFO]: Expected double
+[00:25:57] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:25:57] [Server thread/INFO]: Expected double
+[00:25:57] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:25:57] [Server thread/INFO]: Expected double
+[00:25:57] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:25:58] [Server thread/INFO]: Expected double
+[00:25:58] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:25:58] [Server thread/INFO]: Expected double
+[00:25:58] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:25:58] [Server thread/INFO]: Expected double
+[00:25:58] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:25:58] [Server thread/INFO]: Expected double
+[00:25:58] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:25:59] [Server thread/INFO]: Expected double
+[00:25:59] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:25:59] [Server thread/INFO]: Expected double
+[00:25:59] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:25:59] [Server thread/INFO]: Expected double
+[00:25:59] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:25:59] [Server thread/INFO]: Expected double
+[00:25:59] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:26:00] [Server thread/INFO]: Expected double
+[00:26:00] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:26:00] [Server thread/INFO]: Expected double
+[00:26:00] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:26:00] [Server thread/INFO]: Expected double
+[00:26:00] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:26:00] [Server thread/INFO]: Expected double
+[00:26:00] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:26:01] [Server thread/INFO]: Expected double
+[00:26:01] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:26:01] [Server thread/INFO]: Expected double
+[00:26:01] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:26:01] [Server thread/INFO]: Expected double
+[00:26:01] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:26:01] [Server thread/INFO]: Expected double
+[00:26:01] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:26:02] [Server thread/INFO]: Expected double
+[00:26:02] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:26:02] [Server thread/INFO]: Expected double
+[00:26:02] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:26:02] [Server thread/INFO]: Expected double
+[00:26:02] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:26:02] [Server thread/INFO]: Expected double
+[00:26:02] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:26:03] [Server thread/INFO]: Expected double
+[00:26:03] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:26:03] [Server thread/INFO]: Expected double
+[00:26:03] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:26:03] [Server thread/INFO]: Expected double
+[00:26:03] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:26:03] [Server thread/INFO]: Expected double
+[00:26:03] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:26:04] [Server thread/INFO]: Expected double
+[00:26:04] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:26:04] [Server thread/INFO]: Expected double
+[00:26:04] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:26:04] [Server thread/INFO]: Expected double
+[00:26:04] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:26:04] [Server thread/INFO]: Expected double
+[00:26:04] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:26:04] [Server thread/INFO]: Expected double
+[00:26:04] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:26:05] [Server thread/INFO]: Expected double
+[00:26:05] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:26:05] [Server thread/INFO]: Expected double
+[00:26:05] [Server thread/INFO]: ...ummon bat @annapeeps9<--[HERE]
+[00:26:49] [Server thread/INFO]: Expected double
+[00:26:49] [Server thread/INFO]: ...ummon bat annapeeps9<--[HERE]
+[00:27:58] [Server thread/INFO]: Expected double
+[00:27:58] [Server thread/INFO]: ...ummon bat @a<--[HERE]
+[00:28:00] [Server thread/INFO]: Expected double
+[00:28:00] [Server thread/INFO]: ...ummon bat @a<--[HERE]
+[00:28:08] [Server thread/INFO]: Summoned new Bat
+[00:34:45] [Server thread/INFO]: [Server] Dream fell from a high place
+[00:35:26] [Server thread/INFO]: Incorrect argument for command
+[00:35:26] [Server thread/INFO]: say <--[HERE]
+[00:35:31] [Server thread/INFO]: [Server] Dream fell from a high place
+[00:37:00] [Server thread/INFO]: annapeeps9 was slain by Cave Spider
+[01:29:09] [Server thread/INFO]: annapeeps9 lost connection: Disconnected
+[01:29:09] [Server thread/INFO]: annapeeps9 left the game
+[02:11:01] [User Authenticator #19/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[02:11:01] [Server thread/INFO]: ClayGamer01[/66.235.2.149:54781] logged in with entity id 122805 at (-252.27918175334463, 93.0625, 222.91461922242672)
+[02:11:01] [Server thread/INFO]: ClayGamer01 joined the game
+[02:31:25] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[02:31:25] [Server thread/INFO]: ClayGamer01 left the game
+[02:32:24] [User Authenticator #20/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[02:32:24] [Server thread/INFO]: ClayGamer01[/66.235.2.149:54882] logged in with entity id 126051 at (-285.58435014899044, 11.0, 202.29017587357922)
+[02:32:24] [Server thread/INFO]: ClayGamer01 joined the game
+[02:35:37] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[02:35:37] [Server thread/INFO]: ClayGamer01 left the game
+[03:08:52] [User Authenticator #21/INFO]: UUID of player le_tisdale is 28d46af2-332b-4c09-8391-9319afdb4557
+[03:08:52] [Server thread/INFO]: le_tisdale[/76.14.74.186:52957] logged in with entity id 126509 at (-317.30000001192093, 94.0, 157.871033190773)
+[03:08:52] [Server thread/INFO]: le_tisdale joined the game
+[03:11:07] [Server thread/INFO]: le_tisdale lost connection: Disconnected
+[03:11:07] [Server thread/INFO]: le_tisdale left the game
+[03:41:23] [Server thread/INFO]: [Server] test
+[04:07:00] [User Authenticator #22/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[04:07:00] [Server thread/INFO]: ClayGamer01[/66.235.2.149:55830] logged in with entity id 127029 at (-246.92500001192087, 11.0, 203.69999998807907)
+[04:07:00] [Server thread/INFO]: ClayGamer01 joined the game
+[05:06:43] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[05:06:43] [Server thread/INFO]: ClayGamer01 left the game
+[06:07:12] [User Authenticator #23/INFO]: UUID of player le_tisdale is 28d46af2-332b-4c09-8391-9319afdb4557
+[06:07:12] [Server thread/INFO]: le_tisdale[/76.14.74.186:50627] logged in with entity id 137175 at (-312.69999998807907, 94.0, 163.15810260654646)
+[06:07:12] [Server thread/INFO]: le_tisdale joined the game
+[06:16:21] [Server thread/INFO]: le_tisdale lost connection: Disconnected
+[06:16:21] [Server thread/INFO]: le_tisdale left the game
+[06:48:38] [User Authenticator #24/INFO]: UUID of player Hot_Single_Moms is 3c658932-cc63-4484-b5d0-560d063f0194
+[06:48:38] [Server thread/INFO]: Hot_Single_Moms[/73.221.244.162:52127] logged in with entity id 138561 at (-257.30000001192093, 33.875, 208.12043682496838)
+[06:48:38] [Server thread/INFO]: Hot_Single_Moms joined the game
+[07:13:16] [Server thread/INFO]: Hot_Single_Moms lost connection: Disconnected
+[07:13:16] [Server thread/INFO]: Hot_Single_Moms left the game
+[10:37:05] [User Authenticator #25/INFO]: UUID of player le_tisdale is 28d46af2-332b-4c09-8391-9319afdb4557
+[10:37:05] [Server thread/INFO]: le_tisdale[/76.14.74.186:51451] logged in with entity id 142686 at (-314.3513365748818, 94.0, 160.30000001192093)
+[10:37:05] [Server thread/INFO]: le_tisdale joined the game
+[11:03:17] [Server thread/INFO]: le_tisdale lost connection: Disconnected
+[11:03:17] [Server thread/INFO]: le_tisdale left the game
+[11:08:17] [User Authenticator #26/INFO]: UUID of player le_tisdale is 28d46af2-332b-4c09-8391-9319afdb4557
+[11:08:17] [Server thread/INFO]: le_tisdale[/76.14.74.186:51609] logged in with entity id 146789 at (-280.545630913329, 82.9375, 217.53528724030252)
+[11:08:17] [Server thread/INFO]: le_tisdale joined the game
+[11:26:58] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-299, y=83, z=215} fx{x=-299, y=82, z=215}
+[11:36:09] [Server thread/INFO]: le_tisdale lost connection: Disconnected
+[11:36:09] [Server thread/INFO]: le_tisdale left the game
+[15:52:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[15:52:39] [Server thread/INFO]: `say test<--[HERE]
+[15:52:52] [Server thread/INFO]: Stopping the server
+[15:52:52] [Server thread/INFO]: Stopping server
+[15:52:52] [Server thread/INFO]: Saving players
+[15:52:52] [Server thread/INFO]: Saving worlds
+[15:52:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:52:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:52:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:52:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:52:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:52:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:52:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:52:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:52:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
