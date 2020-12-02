@@ -1,0 +1,46 @@
+[19:41:38] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:41:39] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:41:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:41:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:41:39] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:41:39] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:41:39] [main/INFO]: Reloading ResourceManager: Default
+[19:41:40] [Worker-Main-2/INFO]: Loaded 7 recipes
+[19:41:41] [Worker-Main-2/INFO]: Loaded 987 advancements
+[19:41:43] [Server thread/INFO]: Starting minecraft server version 20w48a
+[19:41:43] [Server thread/INFO]: Loading properties
+[19:41:43] [Server thread/INFO]: Default game type: SURVIVAL
+[19:41:43] [Server thread/INFO]: Generating keypair
+[19:41:43] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:41:43] [Server thread/INFO]: Using epoll channel type
+[19:41:43] [Server thread/INFO]: Preparing level "world"
+[19:41:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:41:45] [Server thread/INFO]: Preparing spawn area: 0%
+[19:41:45] [Server thread/INFO]: Preparing spawn area: 0%
+[19:41:45] [Server thread/INFO]: Preparing spawn area: 0%
+[19:41:45] [Server thread/INFO]: Preparing spawn area: 0%
+[19:41:45] [Server thread/INFO]: Preparing spawn area: 0%
+[19:41:46] [Server thread/INFO]: Preparing spawn area: 5%
+[19:41:47] [Server thread/INFO]: Time elapsed: 3560 ms
+[19:41:47] [Server thread/INFO]: Done (3.689s)! For help, type "help"
+[19:41:57] [User Authenticator #1/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[19:41:57] [Server thread/INFO]: ClayGamer01[/66.235.2.149:58313] logged in with entity id 237 at (-279.90148405284134, 81.0, 252.05792406435256)
+[19:41:58] [Server thread/INFO]: ClayGamer01 joined the game
+[19:42:32] [Server thread/WARN]: ClayGamer01 moved wrongly!
+[20:04:23] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
+[20:11:14] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
+[20:11:20] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[20:11:20] [Server thread/INFO]: ClayGamer01 left the game
+[20:17:26] [Server thread/INFO]: Stopping the server
+[20:17:26] [Server thread/INFO]: Stopping server
+[20:17:26] [Server thread/INFO]: Saving players
+[20:17:26] [Server thread/INFO]: Saving worlds
+[20:17:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:17:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:17:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:17:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:17:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:17:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:17:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:17:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:17:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
