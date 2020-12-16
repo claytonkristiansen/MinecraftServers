@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2020-12-09 02:44:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2020-11-12 01:14:29 +0000"
@@ -494,6 +500,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-11-11 07:01:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2020-12-09 02:44:18 +0000"
     },
     "done": true
   },
@@ -804,7 +816,9 @@
       "minecraft:piglin_brute": "2020-11-14 09:49:44 +0000",
       "minecraft:creeper": "2020-11-11 07:14:46 +0000",
       "minecraft:evoker": "2020-11-13 04:03:03 +0000",
+      "minecraft:slime": "2020-12-09 04:36:27 +0000",
       "minecraft:phantom": "2020-11-12 04:50:53 +0000",
+      "minecraft:zombified_piglin": "2020-12-09 23:54:29 +0000",
       "minecraft:witch": "2020-11-13 04:01:28 +0000",
       "minecraft:wither_skeleton": "2020-11-12 06:01:35 +0000",
       "minecraft:cave_spider": "2020-11-14 07:41:39 +0000",
@@ -1299,6 +1313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2020-12-09 23:46:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2020-11-11 23:21:00 +0000"
@@ -1392,6 +1412,12 @@
   "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2020-11-11 10:52:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-12-09 02:44:18 +0000"
     },
     "done": true
   },
@@ -1572,10 +1598,12 @@
       "minecraft:mountains": "2020-11-11 09:53:02 +0000",
       "minecraft:taiga": "2020-11-11 09:37:25 +0000",
       "minecraft:desert_hills": "2020-11-28 09:35:36 +0000",
+      "minecraft:deep_cold_ocean": "2020-12-09 02:39:41 +0000",
       "minecraft:snowy_tundra": "2020-11-11 09:39:15 +0000",
       "minecraft:taiga_hills": "2020-11-11 09:37:53 +0000",
       "minecraft:desert": "2020-11-28 09:35:15 +0000",
       "minecraft:frozen_river": "2020-11-12 22:34:19 +0000",
+      "minecraft:deep_frozen_ocean": "2020-12-09 02:39:07 +0000",
       "minecraft:jungle": "2020-11-13 03:40:53 +0000",
       "minecraft:jungle_hills": "2020-11-13 03:41:36 +0000",
       "minecraft:snowy_beach": "2020-11-11 09:42:10 +0000",
@@ -1589,6 +1617,8 @@
       "minecraft:wooded_mountains": "2020-11-11 09:53:20 +0000",
       "minecraft:bamboo_jungle_hills": "2020-11-13 03:39:19 +0000",
       "minecraft:wooded_hills": "2020-11-11 06:34:58 +0000",
+      "minecraft:stone_shore": "2020-12-09 02:20:31 +0000",
+      "minecraft:swamp": "2020-12-09 02:54:27 +0000",
       "minecraft:snowy_taiga_hills": "2020-11-11 09:42:16 +0000",
       "minecraft:savanna": "2020-11-28 09:32:29 +0000",
       "minecraft:plains": "2020-11-11 06:35:00 +0000"
@@ -1613,6 +1643,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_from_smelting": {
+    "criteria": {
+      "has_lapis_ore": "2020-12-14 21:02:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2020-11-11 06:36:23 +0000"
@@ -1628,6 +1664,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2020-11-13 04:06:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2020-12-09 23:46:55 +0000"
     },
     "done": true
   },
@@ -1827,10 +1869,17 @@
     "criteria": {
       "minecraft:crimson_forest": "2020-11-12 00:33:24 +0000",
       "minecraft:nether_wastes": "2020-11-29 21:11:20 +0000",
+      "minecraft:soul_sand_valley": "2020-12-06 06:15:46 +0000",
       "minecraft:warped_forest": "2020-11-12 00:15:25 +0000",
       "minecraft:basalt_deltas": "2020-11-29 21:12:11 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2020-12-09 02:44:18 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/food/cookie": {
     "criteria": {
@@ -2039,6 +2088,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-11-16 00:13:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-12-09 02:44:18 +0000"
     },
     "done": true
   },
@@ -2369,6 +2424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-12-09 02:44:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-11-11 09:12:43 +0000"
@@ -2501,6 +2562,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2020-12-09 02:44:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2020-11-12 00:23:04 +0000"
@@ -2510,6 +2577,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-11-11 07:01:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2020-12-09 02:44:18 +0000"
     },
     "done": true
   },
@@ -3007,6 +3080,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-12-09 02:44:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_from_blasting": {
     "criteria": {
       "has_redstone_ore": "2020-11-15 20:06:41 +0000"
@@ -3337,6 +3416,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-12-09 02:44:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2020-11-11 06:36:23 +0000"
@@ -3349,9 +3434,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_from_blasting": {
+    "criteria": {
+      "has_lapis_ore": "2020-12-14 21:02:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_white_dye": "2020-11-13 03:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2020-12-09 02:44:18 +0000"
     },
     "done": true
   },
@@ -3409,6 +3506,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2020-12-09 02:44:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2020-11-12 00:39:34 +0000"
@@ -3430,6 +3533,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2020-11-12 06:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2020-12-06 06:22:32 +0000"
     },
     "done": true
   },
@@ -3859,6 +3968,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2020-12-09 23:46:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2020-11-11 10:04:05 +0000"
@@ -3877,5 +3992,5 @@
     },
     "done": true
   },
-  "DataVersion": 2683
+  "DataVersion": 2685
 }
