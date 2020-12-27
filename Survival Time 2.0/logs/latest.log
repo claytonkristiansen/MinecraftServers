@@ -1,38 +1,38 @@
-[21:53:48] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:53:49] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:53:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:53:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:53:49] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:53:49] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:53:49] [main/INFO]: Reloading ResourceManager: Default
-[21:53:51] [Worker-Main-2/INFO]: Loaded 7 recipes
-[21:53:52] [Worker-Main-2/INFO]: Loaded 987 advancements
-[21:53:54] [Server thread/INFO]: Starting minecraft server version 20w49a
-[21:53:54] [Server thread/INFO]: Loading properties
-[21:53:54] [Server thread/INFO]: Default game type: SURVIVAL
-[21:53:54] [Server thread/INFO]: Generating keypair
-[21:53:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:53:54] [Server thread/INFO]: Using epoll channel type
-[21:53:54] [Server thread/INFO]: Preparing level "world"
-[21:53:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:53:56] [Server thread/INFO]: Preparing spawn area: 0%
-[21:53:56] [Server thread/INFO]: Preparing spawn area: 0%
-[21:53:56] [Server thread/INFO]: Preparing spawn area: 0%
-[21:53:56] [Server thread/INFO]: Preparing spawn area: 0%
-[21:53:56] [Server thread/INFO]: Preparing spawn area: 0%
-[21:53:57] [Server thread/INFO]: Preparing spawn area: 47%
-[21:53:58] [Server thread/INFO]: Time elapsed: 3373 ms
-[21:53:58] [Server thread/INFO]: Done (3.551s)! For help, type "help"
-[21:54:16] [Server thread/INFO]: Stopping the server
-[21:54:16] [Server thread/INFO]: Stopping server
-[21:54:16] [Server thread/INFO]: Saving players
-[21:54:16] [Server thread/INFO]: Saving worlds
-[21:54:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:54:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:54:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21:54:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:54:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21:54:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:54:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:54:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:54:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:20:32] [Server thread/INFO]: Villager bgt['Villager'/253235, l='ServerLevel[world]', x=-264.30, y=7.17, z=208.70] died, message: 'Villager was slain by Zombie Villager'
+[01:02:24] [Server thread/INFO]: Villager bgt['Fletcher'/94, l='ServerLevel[world]', x=-259.70, y=6.00, z=218.63] died, message: 'Fletcher was slain by Zombie Villager'
+[05:40:04] [Server thread/WARN]: ClayGamer01 moved too quickly! 0.3497044714044151,1.1216000461578375,-10.127463341417965
+[06:31:31] [Server thread/INFO]: [ClayGamer01: The difficulty has been set to Normal]
+[06:35:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2126ms or 42 ticks behind
+[06:35:27] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[06:35:27] [Server thread/INFO]: ClayGamer01 left the game
+[06:37:38] [User Authenticator #46/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[06:37:38] [Server thread/INFO]: ClayGamer01[/66.235.2.149:50813] logged in with entity id 480120 at (-466.04241239847755, 72.0, 4229.228486138433)
+[06:37:38] [Server thread/INFO]: ClayGamer01 joined the game
+[09:00:20] [Server thread/INFO]: ClayGamer01 lost connection: Timed out
+[09:00:20] [Server thread/INFO]: ClayGamer01 left the game
+[20:06:37] [Server thread/INFO]: Stopping server
+[20:06:37] [Server thread/INFO]: Saving players
+[20:06:37] [Server thread/INFO]: Saving worlds
+[20:06:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:06:37] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Input/output error
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:279) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:290) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:351) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:185) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:326) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:392) ~[?:?]
+	at zt$1.run(SourceFile:95) [server.jar:?]
+[20:06:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:06:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:06:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:06:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:06:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:06:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:06:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:06:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
