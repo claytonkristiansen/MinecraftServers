@@ -1,38 +1,12 @@
-[21:53:48] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:53:49] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:53:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:53:49] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:53:49] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:53:49] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:53:49] [main/INFO]: Reloading ResourceManager: Default
-[21:53:51] [Worker-Main-2/INFO]: Loaded 7 recipes
-[21:53:52] [Worker-Main-2/INFO]: Loaded 987 advancements
-[21:53:54] [Server thread/INFO]: Starting minecraft server version 20w49a
-[21:53:54] [Server thread/INFO]: Loading properties
-[21:53:54] [Server thread/INFO]: Default game type: SURVIVAL
-[21:53:54] [Server thread/INFO]: Generating keypair
-[21:53:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:53:54] [Server thread/INFO]: Using epoll channel type
-[21:53:54] [Server thread/INFO]: Preparing level "world"
-[21:53:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:53:56] [Server thread/INFO]: Preparing spawn area: 0%
-[21:53:56] [Server thread/INFO]: Preparing spawn area: 0%
-[21:53:56] [Server thread/INFO]: Preparing spawn area: 0%
-[21:53:56] [Server thread/INFO]: Preparing spawn area: 0%
-[21:53:56] [Server thread/INFO]: Preparing spawn area: 0%
-[21:53:57] [Server thread/INFO]: Preparing spawn area: 47%
-[21:53:58] [Server thread/INFO]: Time elapsed: 3373 ms
-[21:53:58] [Server thread/INFO]: Done (3.551s)! For help, type "help"
-[21:54:16] [Server thread/INFO]: Stopping the server
-[21:54:16] [Server thread/INFO]: Stopping server
-[21:54:16] [Server thread/INFO]: Saving players
-[21:54:16] [Server thread/INFO]: Saving worlds
-[21:54:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:54:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:54:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[21:54:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:54:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[21:54:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:54:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:54:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:54:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:42:31] [User Authenticator #5/INFO]: UUID of player vivkpatl is c62a9a71-5c29-447a-bb63-143f465bf203
+[05:42:31] [Server thread/INFO]: vivkpatl[/66.235.2.64:50733] logged in with entity id 8264 at (-97.14431110236814, 87.0, -147.08194850600395)
+[05:42:31] [Server thread/INFO]: vivkpatl joined the game
+[06:18:04] [Server thread/INFO]: vivkpatl lost connection: Timed out
+[06:18:04] [Server thread/INFO]: vivkpatl left the game
+[06:18:04] [Server thread/WARN]: handleDisconnection() called twice
+[15:50:25] [Server thread/INFO]: /45.139.113.95:52152 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[19:18:58] [Server thread/INFO]: [Server] hello
+[20:59:22] [Server thread/INFO]: Stopping server
+[20:59:22] [Server thread/INFO]: Saving players
+[20:59:22] [Server thread/INFO]: Saving worlds
+[20:59:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
