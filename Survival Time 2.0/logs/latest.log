@@ -1,38 +1,12 @@
-[00:20:32] [Server thread/INFO]: Villager bgt['Villager'/253235, l='ServerLevel[world]', x=-264.30, y=7.17, z=208.70] died, message: 'Villager was slain by Zombie Villager'
-[01:02:24] [Server thread/INFO]: Villager bgt['Fletcher'/94, l='ServerLevel[world]', x=-259.70, y=6.00, z=218.63] died, message: 'Fletcher was slain by Zombie Villager'
-[05:40:04] [Server thread/WARN]: ClayGamer01 moved too quickly! 0.3497044714044151,1.1216000461578375,-10.127463341417965
-[06:31:31] [Server thread/INFO]: [ClayGamer01: The difficulty has been set to Normal]
-[06:35:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2126ms or 42 ticks behind
-[06:35:27] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
-[06:35:27] [Server thread/INFO]: ClayGamer01 left the game
-[06:37:38] [User Authenticator #46/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
-[06:37:38] [Server thread/INFO]: ClayGamer01[/66.235.2.149:50813] logged in with entity id 480120 at (-466.04241239847755, 72.0, 4229.228486138433)
-[06:37:38] [Server thread/INFO]: ClayGamer01 joined the game
-[09:00:20] [Server thread/INFO]: ClayGamer01 lost connection: Timed out
-[09:00:20] [Server thread/INFO]: ClayGamer01 left the game
-[20:06:37] [Server thread/INFO]: Stopping server
-[20:06:37] [Server thread/INFO]: Saving players
-[20:06:37] [Server thread/INFO]: Saving worlds
-[20:06:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:06:37] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: Input/output error
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
-	at java.io.FileInputStream.read(FileInputStream.java:279) ~[?:?]
-	at java.io.BufferedInputStream.read1(BufferedInputStream.java:290) ~[?:?]
-	at java.io.BufferedInputStream.read(BufferedInputStream.java:351) ~[?:?]
-	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:?]
-	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:?]
-	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:?]
-	at java.io.InputStreamReader.read(InputStreamReader.java:185) ~[?:?]
-	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
-	at java.io.BufferedReader.readLine(BufferedReader.java:326) ~[?:?]
-	at java.io.BufferedReader.readLine(BufferedReader.java:392) ~[?:?]
-	at zt$1.run(SourceFile:95) [server.jar:?]
-[20:06:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:06:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:06:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:06:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:06:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:06:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:06:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:06:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:42:31] [User Authenticator #5/INFO]: UUID of player vivkpatl is c62a9a71-5c29-447a-bb63-143f465bf203
+[05:42:31] [Server thread/INFO]: vivkpatl[/66.235.2.64:50733] logged in with entity id 8264 at (-97.14431110236814, 87.0, -147.08194850600395)
+[05:42:31] [Server thread/INFO]: vivkpatl joined the game
+[06:18:04] [Server thread/INFO]: vivkpatl lost connection: Timed out
+[06:18:04] [Server thread/INFO]: vivkpatl left the game
+[06:18:04] [Server thread/WARN]: handleDisconnection() called twice
+[15:50:25] [Server thread/INFO]: /45.139.113.95:52152 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
+[19:18:58] [Server thread/INFO]: [Server] hello
+[20:59:22] [Server thread/INFO]: Stopping server
+[20:59:22] [Server thread/INFO]: Saving players
+[20:59:22] [Server thread/INFO]: Saving worlds
+[20:59:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
