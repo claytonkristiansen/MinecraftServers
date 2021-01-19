@@ -1,12 +1,6 @@
-[05:42:31] [User Authenticator #5/INFO]: UUID of player vivkpatl is c62a9a71-5c29-447a-bb63-143f465bf203
-[05:42:31] [Server thread/INFO]: vivkpatl[/66.235.2.64:50733] logged in with entity id 8264 at (-97.14431110236814, 87.0, -147.08194850600395)
-[05:42:31] [Server thread/INFO]: vivkpatl joined the game
-[06:18:04] [Server thread/INFO]: vivkpatl lost connection: Timed out
-[06:18:04] [Server thread/INFO]: vivkpatl left the game
-[06:18:04] [Server thread/WARN]: handleDisconnection() called twice
-[15:50:25] [Server thread/INFO]: /45.139.113.95:52152 lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: readerIndex(1) + length(1) exceeds writerIndex(1): PooledUnsafeDirectByteBuf(ridx: 1, widx: 1, cap: 1)
-[19:18:58] [Server thread/INFO]: [Server] hello
-[20:59:22] [Server thread/INFO]: Stopping server
-[20:59:22] [Server thread/INFO]: Saving players
-[20:59:22] [Server thread/INFO]: Saving worlds
-[20:59:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:44:40] [User Authenticator #20/INFO]: UUID of player vivkpatl is c62a9a71-5c29-447a-bb63-143f465bf203
+[05:44:40] [Server thread/INFO]: vivkpatl[/66.235.2.64:52939] logged in with entity id 101293 at (-97.65733159779249, 87.0, -139.9590008617444)
+[05:44:40] [Server thread/INFO]: vivkpatl joined the game
+[06:14:09] [Server thread/INFO]: vivkpatl lost connection: Disconnected
+[06:14:09] [Server thread/INFO]: vivkpatl left the game
+[19:04:37] [Server thread/INFO]: Stopping server

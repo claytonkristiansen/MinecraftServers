@@ -439,6 +439,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2021-01-19 06:10:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2020-11-29 07:44:44 +0000"
@@ -1188,6 +1194,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2021-01-19 06:10:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_red_flower": "2020-11-29 08:32:38 +0000"
@@ -1830,6 +1842,7 @@
       "minecraft:taiga": "2020-11-24 05:16:55 +0000",
       "minecraft:snowy_tundra": "2020-11-24 05:15:50 +0000",
       "minecraft:taiga_hills": "2020-11-24 05:17:10 +0000",
+      "minecraft:snowy_beach": "2021-01-19 05:47:41 +0000",
       "minecraft:beach": "2021-01-12 02:15:30 +0000",
       "minecraft:river": "2020-11-24 05:16:27 +0000",
       "minecraft:lukewarm_ocean": "2020-12-21 05:24:41 +0000",
@@ -2065,6 +2078,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2020-12-21 05:48:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2021-01-19 06:10:34 +0000"
     },
     "done": true
   },
