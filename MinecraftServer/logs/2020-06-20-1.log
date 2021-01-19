@@ -1,0 +1,12 @@
+[12:03:20] [User Authenticator #8/INFO]: UUID of player annapeeps9 is 602dfe5f-b145-459d-945d-904991662fd3
+[12:03:20] [Server thread/INFO]: annapeeps9[/192.168.1.6:51025] logged in with entity id 57326 at (261.42162187095914, 67.0, 702.173648663093)
+[12:03:20] [Server thread/INFO]: annapeeps9 joined the game
+[12:39:03] [Server thread/WARN]: Fetching packet for removed entity bam[''/64890, l='ServerLevel[world]', x=310.81, y=61.14, z=664.74]
+[12:39:36] [Server thread/WARN]: Fetching packet for removed entity bam[''/65063, l='ServerLevel[world]', x=304.21, y=62.23, z=661.60]
+[12:48:28] [Server thread/WARN]: Mismatch in destroy block pos: ft{x=327, y=52, z=649} ft{x=327, y=52, z=650}
+[13:53:03] [Server thread/WARN]: Fetching packet for removed entity bam[''/82254, l='ServerLevel[world]', x=267.26, y=63.00, z=743.17]
+[14:04:18] [Server thread/WARN]: Fetching packet for removed entity bam[''/83975, l='ServerLevel[world]', x=267.39, y=63.00, z=738.47]
+[14:05:10] [Server thread/WARN]: Fetching packet for removed entity bam[''/84144, l='ServerLevel[world]', x=267.27, y=63.00, z=739.99]
+[14:18:36] [Server thread/WARN]: Fetching packet for removed entity bam[''/86349, l='ServerLevel[world]', x=270.52, y=63.00, z=742.85]
+[15:09:59] [Server thread/INFO]: annapeeps9 lost connection: Disconnected
+[15:09:59] [Server thread/INFO]: annapeeps9 left the game
