@@ -4,5 +4,11 @@
     "name": "ClayGamer01",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "80fe19a6-e468-415f-afd0-0d96b1f9a10e",
+    "name": "VisaRewards",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

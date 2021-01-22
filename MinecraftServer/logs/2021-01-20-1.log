@@ -1,0 +1,19 @@
+[01:50:34] [User Authenticator #4/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[01:50:34] [Server thread/INFO]: ClayGamer01[/66.235.2.149:63044] logged in with entity id 17751 at (-414.46783247441675, 110.0, -438.7182280563104)
+[01:50:34] [Server thread/INFO]: ClayGamer01 joined the game
+[01:52:50] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
+[01:53:03] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
+[01:55:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2407ms or 48 ticks behind
+[02:02:00] [Server thread/INFO]: [ClayGamer01: Gamerule randomTickSpeed is now set to: 10000]
+[02:02:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2155ms or 43 ticks behind
+[02:02:29] [Server thread/INFO]: [ClayGamer01: Gamerule randomTickSpeed is now set to: 4]
+[02:02:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15840ms or 316 ticks behind
+[02:03:10] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
+[02:03:35] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
+[02:04:30] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/23111, l='ServerLevel[world]', x=268.94, y=63.00, z=743.17]
+[02:07:48] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
+[02:11:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2297ms or 45 ticks behind
+[02:16:47] [Server thread/WARN]: Fetching packet for removed entity bcv['Air'/25055, l='ServerLevel[world]', x=-352.41, y=73.00, z=-1221.42]
+[02:18:13] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
+[02:18:15] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[02:18:15] [Server thread/INFO]: ClayGamer01 left the game

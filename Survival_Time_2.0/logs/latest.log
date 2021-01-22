@@ -1,6 +1,44 @@
-[05:44:40] [User Authenticator #20/INFO]: UUID of player vivkpatl is c62a9a71-5c29-447a-bb63-143f465bf203
-[05:44:40] [Server thread/INFO]: vivkpatl[/66.235.2.64:52939] logged in with entity id 101293 at (-97.65733159779249, 87.0, -139.9590008617444)
-[05:44:40] [Server thread/INFO]: vivkpatl joined the game
-[06:14:09] [Server thread/INFO]: vivkpatl lost connection: Disconnected
-[06:14:09] [Server thread/INFO]: vivkpatl left the game
-[19:04:37] [Server thread/INFO]: Stopping server
+[07:37:13] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[07:37:14] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[07:37:14] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:37:14] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:37:14] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[07:37:14] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[07:37:14] [main/INFO]: Reloading ResourceManager: Default
+[07:37:16] [Worker-Main-2/INFO]: Loaded 7 recipes
+[07:37:17] [Worker-Main-2/INFO]: Loaded 987 advancements
+[07:37:19] [Server thread/INFO]: Starting minecraft server version 20w51a
+[07:37:19] [Server thread/INFO]: Loading properties
+[07:37:19] [Server thread/INFO]: Default game type: SURVIVAL
+[07:37:19] [Server thread/INFO]: Generating keypair
+[07:37:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:37:20] [Server thread/INFO]: Using epoll channel type
+[07:37:20] [Server thread/INFO]: Preparing level "world"
+[07:37:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:37:25] [Server thread/INFO]: Preparing spawn area: 0%
+[07:37:25] [Server thread/INFO]: Preparing spawn area: 0%
+[07:37:25] [Server thread/INFO]: Preparing spawn area: 0%
+[07:37:25] [Server thread/INFO]: Preparing spawn area: 0%
+[07:37:25] [Server thread/INFO]: Preparing spawn area: 0%
+[07:37:25] [Server thread/INFO]: Preparing spawn area: 0%
+[07:37:25] [Server thread/INFO]: Preparing spawn area: 0%
+[07:37:25] [Server thread/INFO]: Preparing spawn area: 0%
+[07:37:25] [Server thread/INFO]: Preparing spawn area: 0%
+[07:37:25] [Server thread/INFO]: Preparing spawn area: 4%
+[07:37:26] [Server thread/INFO]: Preparing spawn area: 51%
+[07:37:29] [Server thread/INFO]: Time elapsed: 8422 ms
+[07:37:29] [Server thread/INFO]: Done (8.952s)! For help, type "help"
+[07:37:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2077ms or 41 ticks behind
+[07:48:41] [Server thread/INFO]: Stopping the server
+[07:48:41] [Server thread/INFO]: Stopping server
+[07:48:41] [Server thread/INFO]: Saving players
+[07:48:41] [Server thread/INFO]: Saving worlds
+[07:48:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:48:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:48:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07:48:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:48:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07:48:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:48:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:48:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:48:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

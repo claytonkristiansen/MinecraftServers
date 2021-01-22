@@ -1,0 +1,53 @@
+[03:56:24] [User Authenticator #4/INFO]: UUID of player vivkpatl is c62a9a71-5c29-447a-bb63-143f465bf203
+[03:56:25] [Server thread/INFO]: vivkpatl[/66.235.2.64:51301] logged in with entity id 8005 at (-106.02266962196254, 88.0, -131.11064442688476)
+[03:56:25] [Server thread/INFO]: vivkpatl joined the game
+[04:00:50] [Server thread/INFO]: vivkpatl lost connection: Disconnected
+[04:00:50] [Server thread/INFO]: vivkpatl left the game
+[05:33:13] [User Authenticator #5/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[05:33:14] [Server thread/INFO]: ClayGamer01[/66.235.2.149:51445] logged in with entity id 9108 at (-87.58428357875964, 92.65494592561365, 180.51090891979786)
+[05:33:14] [Server thread/INFO]: ClayGamer01 joined the game
+[05:38:56] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
+[05:40:24] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
+[05:49:45] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[05:49:45] [Server thread/INFO]: ClayGamer01 left the game
+[09:52:53] [User Authenticator #6/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[09:52:54] [Server thread/INFO]: ClayGamer01[/66.235.2.149:57831] logged in with entity id 9541 at (-113.44366463121064, 131.78133075470095, 150.2370664732466)
+[09:52:54] [Server thread/INFO]: ClayGamer01 joined the game
+[09:53:08] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[09:53:08] [Server thread/INFO]: ClayGamer01 left the game
+[17:24:56] [User Authenticator #7/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[17:24:57] [Server thread/INFO]: ClayGamer01[/66.235.2.149:64098] logged in with entity id 9622 at (-113.45989027620762, 109.66199857968513, 162.1823814588126)
+[17:24:57] [Server thread/INFO]: ClayGamer01 joined the game
+[17:25:00] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[17:25:00] [Server thread/INFO]: ClayGamer01 left the game
+[17:28:25] [User Authenticator #8/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[17:28:25] [Server thread/INFO]: ClayGamer01[/66.235.2.149:64363] logged in with entity id 9685 at (-113.45989027620762, 109.66199857968513, 162.1823814588126)
+[17:28:25] [Server thread/INFO]: ClayGamer01 joined the game
+[17:30:37] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[17:30:37] [Server thread/INFO]: ClayGamer01 left the game
+[19:40:26] [Server thread/ERROR]: Failed to save level ./world
+java.io.IOException: No space left on device
+	at java.io.FileOutputStream.writeBytes(Native Method) ~[?:1.8.0_275]
+	at java.io.FileOutputStream.write(FileOutputStream.java:313) ~[?:1.8.0_275]
+	at java.util.zip.GZIPOutputStream.writeHeader(GZIPOutputStream.java:182) ~[?:1.8.0_275]
+	at java.util.zip.GZIPOutputStream.<init>(GZIPOutputStream.java:94) ~[?:1.8.0_275]
+	at java.util.zip.GZIPOutputStream.<init>(GZIPOutputStream.java:109) ~[?:1.8.0_275]
+	at mx.a(SourceFile:43) ~[server.jar:?]
+	at mx.a(SourceFile:38) ~[server.jar:?]
+	at dcs$a.a(SourceFile:355) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:573) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:829) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:669) ~[server.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:257) ~[server.jar:?]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_275]
+[19:45:26] [Server thread/ERROR]: Failed to save level ./world
+java.io.IOException: No space left on device
+	at java.io.FileOutputStream.writeBytes(Native Method) ~[?:1.8.0_275]
+	at java.io.FileOutputStream.write(FileOutputStream.java:313) ~[?:1.8.0_275]
+	at java.util.zip.GZIPOutputStream.writeHeader(GZIPOutputStream.java:182) ~[?:1.8.0_275]
+	at java.util.zip.GZIPOutputStream.<init>(GZIPOutputStream.java:94) ~[?:1.8.0_275]
+	at java.util.zip.GZIPOutputStream.<init>(GZIPOutputStream.java:109) ~[?:1.8.0_275]
+	at mx.a(SourceFile:43) ~[server.jar:?]
+	at mx.a(SourceFile:38) ~[server.jar:?]
+	at dcs$a.a(SourceFile:355) ~[server.jar:?]
+	at net.minecraft
