@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2021-02-01 04:30:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2020-11-12 04:26:38 +0000"
@@ -601,6 +607,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2021-02-01 04:30:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2020-11-12 04:30:25 +0000"
@@ -937,12 +949,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_sign": {
-    "criteria": {
-      "has_oak_planks": "2020-11-13 03:36:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2020-11-13 03:36:10 +0000"
@@ -1043,6 +1049,7 @@
       "minecraft:wooded_hills": "2020-11-12 03:47:28 +0000",
       "minecraft:stone_shore": "2020-11-13 03:51:18 +0000",
       "minecraft:swamp": "2020-11-14 05:45:11 +0000",
+      "minecraft:snowy_taiga_hills": "2021-02-01 04:32:46 +0000",
       "minecraft:savanna": "2020-11-25 04:40:53 +0000",
       "minecraft:plains": "2020-11-12 03:49:46 +0000"
     },
@@ -1294,6 +1301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-02-01 04:30:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2020-11-15 03:23:42 +0000"
@@ -1414,6 +1427,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2021-02-01 04:30:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2020-11-12 04:30:25 +0000"
@@ -1482,6 +1501,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2020-11-12 04:23:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-02-01 04:30:58 +0000"
     },
     "done": true
   },
@@ -1845,12 +1870,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dark_oak_sign": {
-    "criteria": {
-      "has_dark_oak_planks": "2020-11-13 22:44:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2020-11-12 03:52:14 +0000"
@@ -1965,12 +1984,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_spruce_planks": "2020-11-12 03:52:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2020-11-14 06:53:02 +0000"
@@ -2019,6 +2032,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-02-01 04:30:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2020-11-14 06:53:02 +0000"
@@ -2028,6 +2047,12 @@
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2020-11-14 07:03:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2021-02-01 04:30:58 +0000"
     },
     "done": true
   },
@@ -2493,5 +2518,5 @@
     },
     "done": true
   },
-  "DataVersion": 2683
+  "DataVersion": 2689
 }

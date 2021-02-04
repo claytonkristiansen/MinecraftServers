@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2021-01-28 04:34:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-11-24 05:50:57 +0000"
@@ -440,6 +446,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2020-11-24 05:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2021-01-28 04:34:06 +0000"
     },
     "done": true
   },
@@ -958,7 +970,7 @@
   },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
-      "has_oak_planks": "2020-12-02 00:36:17 +0000"
+      "has_planks": "2021-01-23 01:23:04 +0000"
     },
     "done": true
   },
@@ -1168,9 +1180,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/acacia_sign": {
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
-      "has_acacia_planks": "2020-12-02 22:19:15 +0000"
+      "has_log": "2021-01-23 04:02:10 +0000"
     },
     "done": true
   },
@@ -1891,7 +1903,7 @@
   },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
-      "has_dark_oak_planks": "2020-11-29 02:51:43 +0000"
+      "has_planks": "2021-01-23 01:23:04 +0000"
     },
     "done": true
   },
@@ -2003,15 +2015,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_spruce_planks": "2020-11-24 05:37:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2020-11-24 05:53:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2021-01-28 04:10:22 +0000"
     },
     "done": true
   },
@@ -2243,6 +2255,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2021-01-28 04:34:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-11-29 02:15:25 +0000"
@@ -2381,6 +2399,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2021-01-28 04:28:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2020-11-24 05:53:33 +0000"
@@ -2513,5 +2537,5 @@
     },
     "done": true
   },
-  "DataVersion": 2687
+  "DataVersion": 2689
 }
