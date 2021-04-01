@@ -1,13 +1,37 @@
-[18:02:39] [Server thread/INFO]: Stopping the server
-[18:02:39] [Server thread/INFO]: Stopping server
-[18:02:39] [Server thread/INFO]: Saving players
-[18:02:39] [Server thread/INFO]: Saving worlds
-[18:02:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:02:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:02:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18:02:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:02:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18:02:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:02:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:02:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:02:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:59:02] [User Authenticator #49/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[00:59:02] [Server thread/INFO]: ClayGamer01[/47.218.251.51:53619] logged in with entity id 247794 at (-89.68420406267151, 84.0, 154.7825180518462)
+[00:59:02] [Server thread/INFO]: ClayGamer01 joined the game
+[01:08:58] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[01:08:58] [Server thread/INFO]: ClayGamer01 left the game
+[05:23:16] [User Authenticator #50/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[05:23:17] [Server thread/INFO]: ClayGamer01[/47.218.251.51:58539] logged in with entity id 250600 at (-91.77804057516894, 111.0, 156.26175051611318)
+[05:23:17] [Server thread/INFO]: ClayGamer01 joined the game
+[05:25:50] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
+[05:26:16] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
+[05:27:07] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
+[05:28:31] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
+[05:38:14] [Server thread/INFO]: [ClayGamer01: Set the time to 18000]
+[06:52:55] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
+[06:53:53] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
+[06:56:13] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
+[06:58:37] [Server thread/INFO]: [ClayGamer01: Set own game mode to Creative Mode]
+[07:18:45] [Server thread/INFO]: [ClayGamer01: Set the weather to clear]
+[07:33:05] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
+[07:44:13] [Server thread/INFO]: [ClayGamer01: Set the weather to rain]
+[07:50:42] [Server thread/INFO]: [ClayGamer01: Set own game mode to Spectator Mode]
+[08:11:46] [Server thread/INFO]: [ClayGamer01: Set own game mode to Survival Mode]
+[08:13:00] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[08:13:00] [Server thread/INFO]: ClayGamer01 left the game
+[17:09:13] [Server thread/INFO]: Stopping the server
+[17:09:13] [Server thread/INFO]: Stopping server
+[17:09:13] [Server thread/INFO]: Saving players
+[17:09:13] [Server thread/INFO]: Saving worlds
+[17:09:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:09:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:09:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:09:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:09:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:09:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:09:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:09:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:09:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
