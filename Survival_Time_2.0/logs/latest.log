@@ -1,15 +1,103 @@
-[17:00:52] [Server thread/INFO]: Stopping server
-[17:00:52] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: Input/output error
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_282]
-	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_282]
-	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284) ~[?:1.8.0_282]
-	at java.io.BufferedInputStream.read(BufferedInputStream.java:345) ~[?:1.8.0_282]
-	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:1.8.0_282]
-	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:1.8.0_282]
-	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:1.8.0_282]
-	at java.io.InputStreamReader.read(InputStreamReader.java:184) ~[?:1.8.0_282]
-	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:1.8.0_282]
-	at java.io.BufferedReader.readLine(BufferedReader.java:324) ~[?:1.8.0_282]
-	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[?:1.8.0_282]
-	at zw$1.run(SourceFile:95) [server.jar:?]
+[13:21:13] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[13:21:13] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:21:13] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:21:13] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:21:13] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[13:21:13] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[13:21:13] [main/INFO]: Reloading ResourceManager: Default
+[13:21:14] [Worker-Main-10/INFO]: Loaded 7 recipes
+[13:21:14] [Worker-Main-10/INFO]: Loaded 1127 advancements
+[13:21:15] [Server thread/INFO]: Starting minecraft server version 21w16a
+[13:21:15] [Server thread/INFO]: Loading properties
+[13:21:15] [Server thread/INFO]: Default game type: SURVIVAL
+[13:21:15] [Server thread/INFO]: Generating keypair
+[13:21:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:21:16] [Server thread/INFO]: Using default channel type
+[13:21:16] [Server thread/INFO]: Preparing level "world"
+[13:21:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:21:24] [Server thread/INFO]: Preparing spawn area: 0%
+[13:21:24] [Server thread/INFO]: Preparing spawn area: 0%
+[13:21:24] [Server thread/INFO]: Preparing spawn area: 0%
+[13:21:24] [Server thread/INFO]: Preparing spawn area: 0%
+[13:21:24] [Server thread/INFO]: Preparing spawn area: 0%
+[13:21:24] [Server thread/INFO]: Preparing spawn area: 0%
+[13:21:24] [Server thread/INFO]: Preparing spawn area: 0%
+[13:21:24] [Server thread/INFO]: Preparing spawn area: 0%
+[13:21:24] [Server thread/INFO]: Preparing spawn area: 0%
+[13:21:24] [Server thread/INFO]: Preparing spawn area: 0%
+[13:21:24] [Server thread/INFO]: Preparing spawn area: 0%
+[13:21:24] [Server thread/INFO]: Preparing spawn area: 0%
+[13:21:24] [Server thread/INFO]: Preparing spawn area: 0%
+[13:21:24] [Server thread/INFO]: Preparing spawn area: 0%
+[13:21:24] [Server thread/INFO]: Preparing spawn area: 0%
+[13:21:24] [Server thread/INFO]: Preparing spawn area: 0%
+[13:21:24] [Server thread/INFO]: Preparing spawn area: 0%
+[13:21:25] [Server thread/INFO]: Preparing spawn area: 9%
+[13:21:26] [Server thread/INFO]: Time elapsed: 9868 ms
+[13:21:26] [Server thread/INFO]: Done (9.946s)! For help, type "help"
+[13:22:03] [User Authenticator #1/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[13:22:03] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/copper_ingot' in progress file .\world\advancements\1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e.json - it doesn't exist anymore?
+[13:22:03] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/copper_ingot_from_blasting' in progress file .\world\advancements\1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e.json - it doesn't exist anymore?
+[13:22:03] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/iron_ingot_from_blasting' in progress file .\world\advancements\1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e.json - it doesn't exist anymore?
+[13:22:03] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/iron_ingot' in progress file .\world\advancements\1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e.json - it doesn't exist anymore?
+[13:22:03] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/gold_ingot_from_blasting' in progress file .\world\advancements\1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e.json - it doesn't exist anymore?
+[13:22:03] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/gold_ingot' in progress file .\world\advancements\1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e.json - it doesn't exist anymore?
+[13:22:03] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/mossy_stone_bricks' in progress file .\world\advancements\1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e.json - it doesn't exist anymore?
+[13:22:03] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/redstone/redstone_from_smelting' in progress file .\world\advancements\1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e.json - it doesn't exist anymore?
+[13:22:03] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/redstone/redstone_from_blasting' in progress file .\world\advancements\1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e.json - it doesn't exist anymore?
+[13:22:03] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/coal_from_blasting' in progress file .\world\advancements\1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e.json - it doesn't exist anymore?
+[13:22:03] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/coal_from_smelting' in progress file .\world\advancements\1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e.json - it doesn't exist anymore?
+[13:22:03] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/waxed_copper' in progress file .\world\advancements\1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e.json - it doesn't exist anymore?
+[13:22:03] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/decorations/slime_block' in progress file .\world\advancements\1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e.json - it doesn't exist anymore?
+[13:22:03] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/lapis_from_smelting' in progress file .\world\advancements\1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e.json - it doesn't exist anymore?
+[13:22:03] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/lapis_from_blasting' in progress file .\world\advancements\1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e.json - it doesn't exist anymore?
+[13:22:03] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/diamond_from_blasting' in progress file .\world\advancements\1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e.json - it doesn't exist anymore?
+[13:22:03] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/diamond_from_smelting' in progress file .\world\advancements\1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e.json - it doesn't exist anymore?
+[13:22:04] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:gold_ingot removed now.
+[13:22:04] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:coal_from_blasting removed now.
+[13:22:04] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:mossy_stone_bricks removed now.
+[13:22:04] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:lapis_from_smelting removed now.
+[13:22:04] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:copper_ingot_from_blasting removed now.
+[13:22:04] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:diamond_from_blasting removed now.
+[13:22:04] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:lapis_from_blasting removed now.
+[13:22:04] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:redstone_from_smelting removed now.
+[13:22:04] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:gold_ingot_from_blasting removed now.
+[13:22:04] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:iron_ingot removed now.
+[13:22:04] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:iron_ingot_from_blasting removed now.
+[13:22:04] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:waxed_copper removed now.
+[13:22:04] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:diamond_from_smelting removed now.
+[13:22:04] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:copper_ingot removed now.
+[13:22:04] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:coal_from_smelting removed now.
+[13:22:04] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:redstone_from_blasting removed now.
+[13:22:04] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:gold_ingot removed now.
+[13:22:04] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:lapis_from_blasting removed now.
+[13:22:04] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:copper_ingot removed now.
+[13:22:04] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:coal_from_blasting removed now.
+[13:22:04] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:lapis_from_smelting removed now.
+[13:22:04] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:redstone_from_smelting removed now.
+[13:22:04] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:gold_ingot_from_blasting removed now.
+[13:22:04] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:diamond_from_smelting removed now.
+[13:22:04] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:coal_from_smelting removed now.
+[13:22:04] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:redstone_from_blasting removed now.
+[13:22:04] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:iron_ingot removed now.
+[13:22:04] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:copper_ingot_from_blasting removed now.
+[13:22:04] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:iron_ingot_from_blasting removed now.
+[13:22:04] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:diamond_from_blasting removed now.
+[13:22:04] [Server thread/INFO]: ClayGamer01[/127.0.0.1:53747] logged in with entity id 464 at (-223.9177373849498, 63.0, 214.0126648514666)
+[13:22:04] [Server thread/INFO]: ClayGamer01 joined the game
+[13:22:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2224ms or 44 ticks behind
+[13:22:34] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[13:22:34] [Server thread/INFO]: ClayGamer01 left the game
+[13:22:38] [Server thread/INFO]: Stopping the server
+[13:22:38] [Server thread/INFO]: Stopping server
+[13:22:38] [Server thread/INFO]: Saving players
+[13:22:38] [Server thread/INFO]: Saving worlds
+[13:22:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:22:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:22:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13:22:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:22:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13:22:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:22:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:22:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:22:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
