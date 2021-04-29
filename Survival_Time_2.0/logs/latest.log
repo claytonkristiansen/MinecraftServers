@@ -1,19 +1,51 @@
-[01:14:34] [User Authenticator #25/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
-[01:14:34] [Server thread/INFO]: Quindolin[/71.15.193.70:51994] logged in with entity id 155615 at (6108.667554724093, 69.0, -927.1174120136246)
-[01:14:34] [Server thread/INFO]: Quindolin joined the game
-[01:17:24] [Server thread/WARN]: Quindolin moved too quickly! -9.775383501862052,-1.757002463247801,2.940632373188464
-[01:35:22] [Server thread/INFO]: Quindolin lost connection: Disconnected
-[01:35:22] [Server thread/INFO]: Quindolin left the game
-[02:04:59] [Server thread/INFO]: Stopping the server
-[02:04:59] [Server thread/INFO]: Stopping server
-[02:04:59] [Server thread/INFO]: Saving players
-[02:04:59] [Server thread/INFO]: Saving worlds
-[02:04:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:04:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:04:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02:04:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:04:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02:04:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:04:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:05:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:05:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:13:57] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:13:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:13:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:13:57] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:13:57] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:13:57] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:13:57] [main/INFO]: Reloading ResourceManager: Default
+[21:13:58] [Worker-Main-11/INFO]: Loaded 7 recipes
+[21:13:58] [Worker-Main-11/INFO]: Loaded 1127 advancements
+[21:13:59] [Server thread/INFO]: Starting minecraft server version 21w17a
+[21:13:59] [Server thread/INFO]: Loading properties
+[21:13:59] [Server thread/INFO]: Default game type: SURVIVAL
+[21:13:59] [Server thread/INFO]: Generating keypair
+[21:13:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:13:59] [Server thread/INFO]: Using default channel type
+[21:14:00] [Server thread/INFO]: Preparing level "world"
+[21:14:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:14:04] [Server thread/INFO]: Preparing spawn area: 0%
+[21:14:04] [Server thread/INFO]: Preparing spawn area: 0%
+[21:14:04] [Server thread/INFO]: Preparing spawn area: 0%
+[21:14:04] [Server thread/INFO]: Preparing spawn area: 0%
+[21:14:04] [Server thread/INFO]: Preparing spawn area: 0%
+[21:14:04] [Server thread/INFO]: Preparing spawn area: 0%
+[21:14:04] [Server thread/INFO]: Preparing spawn area: 0%
+[21:14:04] [Server thread/INFO]: Preparing spawn area: 0%
+[21:14:04] [Server thread/INFO]: Preparing spawn area: 0%
+[21:14:04] [Server thread/INFO]: Preparing spawn area: 0%
+[21:14:07] [Server thread/INFO]: Time elapsed: 6926 ms
+[21:14:07] [Server thread/INFO]: Done (7.062s)! For help, type "help"
+[21:14:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2217ms or 44 ticks behind
+[21:14:38] [User Authenticator #1/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[21:14:38] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/misc/copper_ingot_from_copper_block' in progress file .\world\advancements\1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e.json - it doesn't exist anymore?
+[21:14:38] [Server thread/ERROR]: Tried to load unrecognized recipe: minecraft:copper_ingot_from_copper_block removed now.
+[21:14:38] [Server thread/INFO]: ClayGamer01[/127.0.0.1:59856] logged in with entity id 365 at (-289.1909264238461, 6.0, 224.77275704058633)
+[21:14:38] [Server thread/INFO]: ClayGamer01 joined the game
+[21:14:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16437ms or 328 ticks behind
+[21:14:45] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[21:14:45] [Server thread/INFO]: ClayGamer01 left the game
+[21:14:48] [Server thread/INFO]: Stopping the server
+[21:14:48] [Server thread/INFO]: Stopping server
+[21:14:48] [Server thread/INFO]: Saving players
+[21:14:48] [Server thread/INFO]: Saving worlds
+[21:14:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:14:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:14:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:14:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:14:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:14:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:14:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:14:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:14:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
