@@ -1,82 +1,54 @@
-[01:48:08] [Server thread/INFO]: com.mojang.authlib.GameProfile@1b2066e3[id=<null>,name=Quindolin,properties={},legacy=false] (/71.15.193.70:55993) lost connection: Disconnected
-[01:48:11] [User Authenticator #74/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
-[01:48:11] [Server thread/INFO]: Quindolin[/71.15.193.70:55996] logged in with entity id 662357 at (6199.723543384392, 57.0, -1056.3426527336183)
-[01:48:11] [Server thread/INFO]: Quindolin joined the game
-[03:49:18] [User Authenticator #75/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
-[03:49:18] [Server thread/INFO]: ClayGamer01[/47.218.251.51:62313] logged in with entity id 674318 at (-88.69999998807907, 102.5625, 166.3892187493068)
-[03:49:18] [Server thread/INFO]: ClayGamer01 joined the game
-[03:49:22] [Server thread/INFO]: <ClayGamer01> yooooooo
-[03:50:07] [Server thread/WARN]: ClayGamer01 moved too quickly! 15.758104287515096,9.101487130330398,2.1523133513205153
-[03:55:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[03:57:24] [Server thread/WARN]: Boat (vehicle of Quindolin) moved too quickly! -11.602950137663981,0.0,0.0
-[03:58:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[03:59:27] [Server thread/WARN]: Quindolin moved wrongly!
-[04:00:12] [Server thread/WARN]: Quindolin moved too quickly! 10.266481622144795,0.1754232959521005,-0.002754743969092033
-[04:00:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[04:01:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2152ms or 43 ticks behind
-[04:02:24] [Server thread/INFO]: [ClayGamer01: Teleported ClayGamer01 to Quindolin]
-[04:02:31] [Server thread/INFO]: <ClayGamer01> You moved
-[04:02:33] [Server thread/INFO]: <Quindolin> ello
-[04:02:37] [Server thread/INFO]: <Quindolin> eyah
-[04:02:40] [Server thread/INFO]: <Quindolin> yeah
-[04:02:43] [Server thread/INFO]: <Quindolin> call?
-[04:02:43] [Server thread/INFO]: <ClayGamer01> I went all the way to your base
-[04:02:50] [Server thread/INFO]: <ClayGamer01> not yet
-[04:02:51] [Server thread/INFO]: <Quindolin> lol
-[04:02:56] [Server thread/INFO]: <Quindolin> rip
-[04:03:11] [Server thread/INFO]: <Quindolin> i have to go to bed at 11 tonight (in one hourr)
-[04:05:15] [Server thread/WARN]: ClayGamer01 moved too quickly! -14.706644360159387,-1.9557764906620463,-10.267147530953366
-[04:06:53] [Server thread/WARN]: Boat (vehicle of Quindolin) moved wrongly! 0.9753438968252226
-[04:06:53] [Server thread/WARN]: Boat (vehicle of Quindolin) moved wrongly! 0.46464558151654956
-[04:06:53] [Server thread/WARN]: Boat (vehicle of Quindolin) moved wrongly! 0.43597191820364856
-[04:06:53] [Server thread/WARN]: Boat (vehicle of Quindolin) moved wrongly! 0.8341469591231885
-[04:06:53] [Server thread/WARN]: Boat (vehicle of Quindolin) moved wrongly! 0.2673281616450254
-[04:06:53] [Server thread/WARN]: Boat (vehicle of Quindolin) moved wrongly! 0.8254512087750641
-[04:06:53] [Server thread/WARN]: Boat (vehicle of Quindolin) moved wrongly! 0.9222851682664555
-[04:06:53] [Server thread/WARN]: Boat (vehicle of Quindolin) moved wrongly! 1.8044696801080704
-[04:06:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[04:07:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2346ms or 46 ticks behind
-[04:07:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2842ms or 56 ticks behind
-[04:08:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2089ms or 41 ticks behind
-[04:10:25] [Server thread/WARN]: ClayGamer01 moved too quickly! -17.206243949474242,-0.16434958085295648,-6.311412724932886
-[04:10:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2187ms or 43 ticks behind
-[04:11:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
-[04:20:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[04:21:41] [Server thread/INFO]: <Quindolin> where have you been doing your wither fights?
-[04:21:57] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
-[04:21:57] [Server thread/INFO]: ClayGamer01 left the game
-[04:23:01] [User Authenticator #76/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
-[04:23:01] [Server thread/INFO]: ClayGamer01[/47.218.251.51:62827] logged in with entity id 696037 at (-208.58746464296175, 89.0, -1189.6710882682614)
-[04:23:01] [Server thread/INFO]: ClayGamer01 joined the game
-[04:23:06] [Server thread/INFO]: <ClayGamer01> Un momento
-[04:23:07] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
-[04:23:07] [Server thread/INFO]: ClayGamer01 left the game
-[04:43:42] [User Authenticator #77/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
-[04:43:43] [Server thread/INFO]: ClayGamer01[/47.218.251.51:63092] logged in with entity id 698602 at (-208.58746464296175, 89.0, -1189.6710882682614)
-[04:43:43] [Server thread/INFO]: ClayGamer01 joined the game
-[04:43:50] [Server thread/INFO]: <ClayGamer01> I just go to a random desert
-[04:43:55] [Server thread/INFO]: <ClayGamer01> leaves no marks
-[04:44:01] [Server thread/INFO]: <ClayGamer01> I gtg to bed for my exam tomrrow
-[04:44:04] [Server thread/INFO]: <ClayGamer01> see you
-[04:44:05] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
-[04:44:05] [Server thread/INFO]: ClayGamer01 left the game
-[05:07:16] [Server thread/INFO]: Quindolin lost connection: Timed out
-[05:07:16] [Server thread/INFO]: Quindolin left the game
-[05:07:22] [User Authenticator #78/INFO]: UUID of player Quindolin is 271617cd-6ecf-4e3c-870e-553daa50acda
-[05:07:22] [Server thread/INFO]: Quindolin[/71.15.193.70:57579] logged in with entity id 701170 at (6166.699999988079, 49.0, -1047.300000011921)
-[05:07:22] [Server thread/INFO]: Quindolin joined the game
-[05:07:28] [Server thread/INFO]: Quindolin lost connection: Disconnected
-[05:07:28] [Server thread/INFO]: Quindolin left the game
-[17:06:45] [Server thread/INFO]: Stopping the server
-[17:06:45] [Server thread/INFO]: Stopping server
-[17:06:45] [Server thread/INFO]: Saving players
-[17:06:45] [Server thread/INFO]: Saving worlds
-[17:06:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:06:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:06:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:06:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:06:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:06:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:06:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:06:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:06:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:15:37] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:15:37] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:15:37] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:15:37] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:15:37] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:15:37] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:15:37] [main/INFO]: Reloading ResourceManager: Default
+[12:15:38] [Worker-Main-12/INFO]: Loaded 7 recipes
+[12:15:38] [Worker-Main-12/INFO]: Loaded 1127 advancements
+[12:15:39] [Server thread/INFO]: Starting minecraft server version 21w18a
+[12:15:39] [Server thread/INFO]: Loading properties
+[12:15:39] [Server thread/INFO]: Default game type: SURVIVAL
+[12:15:39] [Server thread/INFO]: Generating keypair
+[12:15:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:15:39] [Server thread/INFO]: Using default channel type
+[12:15:39] [Server thread/INFO]: Preparing level "world"
+[12:15:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:15:46] [Server thread/INFO]: Preparing spawn area: 0%
+[12:15:46] [Server thread/INFO]: Preparing spawn area: 0%
+[12:15:46] [Server thread/INFO]: Preparing spawn area: 0%
+[12:15:46] [Server thread/INFO]: Preparing spawn area: 0%
+[12:15:46] [Server thread/INFO]: Preparing spawn area: 0%
+[12:15:46] [Server thread/INFO]: Preparing spawn area: 0%
+[12:15:46] [Server thread/INFO]: Preparing spawn area: 0%
+[12:15:46] [Server thread/INFO]: Preparing spawn area: 0%
+[12:15:46] [Server thread/INFO]: Preparing spawn area: 0%
+[12:15:46] [Server thread/INFO]: Preparing spawn area: 0%
+[12:15:46] [Server thread/INFO]: Preparing spawn area: 0%
+[12:15:46] [Server thread/INFO]: Preparing spawn area: 0%
+[12:15:46] [Server thread/INFO]: Preparing spawn area: 0%
+[12:15:46] [Server thread/INFO]: Preparing spawn area: 0%
+[12:15:47] [Server thread/INFO]: Preparing spawn area: 2%
+[12:15:51] [Server thread/INFO]: Time elapsed: 11953 ms
+[12:15:51] [Server thread/INFO]: Done (12.046s)! For help, type "help"
+[12:15:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[12:16:12] [User Authenticator #1/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
+[12:16:13] [Server thread/INFO]: ClayGamer01[/127.0.0.1:50039] logged in with entity id 362 at (-208.58746464296175, 89.0, -1189.6710882682614)
+[12:16:13] [Server thread/INFO]: ClayGamer01 joined the game
+[12:16:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9043ms or 180 ticks behind
+[12:19:23] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
+[12:19:23] [Server thread/INFO]: ClayGamer01 left the game
+[12:19:27] [Server thread/INFO]: Stopping the server
+[12:19:27] [Server thread/INFO]: Stopping server
+[12:19:27] [Server thread/INFO]: Saving players
+[12:19:27] [Server thread/INFO]: Saving worlds
+[12:19:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:19:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:19:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12:19:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:19:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12:19:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:19:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:19:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:19:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
