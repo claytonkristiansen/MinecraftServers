@@ -1,54 +1,15 @@
-[12:15:37] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[12:15:37] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:15:37] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:15:37] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:15:37] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[12:15:37] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[12:15:37] [main/INFO]: Reloading ResourceManager: Default
-[12:15:38] [Worker-Main-12/INFO]: Loaded 7 recipes
-[12:15:38] [Worker-Main-12/INFO]: Loaded 1127 advancements
-[12:15:39] [Server thread/INFO]: Starting minecraft server version 21w18a
-[12:15:39] [Server thread/INFO]: Loading properties
-[12:15:39] [Server thread/INFO]: Default game type: SURVIVAL
-[12:15:39] [Server thread/INFO]: Generating keypair
-[12:15:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:15:39] [Server thread/INFO]: Using default channel type
-[12:15:39] [Server thread/INFO]: Preparing level "world"
-[12:15:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:15:46] [Server thread/INFO]: Preparing spawn area: 0%
-[12:15:46] [Server thread/INFO]: Preparing spawn area: 0%
-[12:15:46] [Server thread/INFO]: Preparing spawn area: 0%
-[12:15:46] [Server thread/INFO]: Preparing spawn area: 0%
-[12:15:46] [Server thread/INFO]: Preparing spawn area: 0%
-[12:15:46] [Server thread/INFO]: Preparing spawn area: 0%
-[12:15:46] [Server thread/INFO]: Preparing spawn area: 0%
-[12:15:46] [Server thread/INFO]: Preparing spawn area: 0%
-[12:15:46] [Server thread/INFO]: Preparing spawn area: 0%
-[12:15:46] [Server thread/INFO]: Preparing spawn area: 0%
-[12:15:46] [Server thread/INFO]: Preparing spawn area: 0%
-[12:15:46] [Server thread/INFO]: Preparing spawn area: 0%
-[12:15:46] [Server thread/INFO]: Preparing spawn area: 0%
-[12:15:46] [Server thread/INFO]: Preparing spawn area: 0%
-[12:15:47] [Server thread/INFO]: Preparing spawn area: 2%
-[12:15:51] [Server thread/INFO]: Time elapsed: 11953 ms
-[12:15:51] [Server thread/INFO]: Done (12.046s)! For help, type "help"
-[12:15:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
-[12:16:12] [User Authenticator #1/INFO]: UUID of player ClayGamer01 is 1d3a6c27-7ae0-4c0e-aa92-9f943dcb456e
-[12:16:13] [Server thread/INFO]: ClayGamer01[/127.0.0.1:50039] logged in with entity id 362 at (-208.58746464296175, 89.0, -1189.6710882682614)
-[12:16:13] [Server thread/INFO]: ClayGamer01 joined the game
-[12:16:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9043ms or 180 ticks behind
-[12:19:23] [Server thread/INFO]: ClayGamer01 lost connection: Disconnected
-[12:19:23] [Server thread/INFO]: ClayGamer01 left the game
-[12:19:27] [Server thread/INFO]: Stopping the server
-[12:19:27] [Server thread/INFO]: Stopping server
-[12:19:27] [Server thread/INFO]: Saving players
-[12:19:27] [Server thread/INFO]: Saving worlds
-[12:19:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[12:19:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:19:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[12:19:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:19:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[12:19:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:19:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:19:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:19:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:22:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:22:31] [Server thread/INFO]: hjhhhhhhhhhnstop<--[HERE]
+[23:22:34] [Server thread/INFO]: Stopping the server
+[23:22:34] [Server thread/INFO]: Stopping server
+[23:22:34] [Server thread/INFO]: Saving players
+[23:22:34] [Server thread/INFO]: Saving worlds
+[23:22:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:22:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:22:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:22:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:22:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:22:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:22:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:22:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:22:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
