@@ -1,18 +1,42 @@
-[18:16:09] [Server thread/INFO]: Stopping server
-[18:16:09] [Server thread/INFO]: Saving players
-[18:16:09] [Server thread/INFO]: Saving worlds
-[18:16:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:16:08] [Server console handler/ERROR]: Exception handling console input
-java.io.IOException: Input/output error
-	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_292]
-	at java.io.FileInputStream.read(FileInputStream.java:255) ~[?:1.8.0_292]
-	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284) ~[?:1.8.0_292]
-	at java.io.BufferedInputStream.read(BufferedInputStream.java:345) ~[?:1.8.0_292]
-	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:1.8.0_292]
-	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:1.8.0_292]
-	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:1.8.0_292]
-	at java.io.InputStreamReader.read(InputStreamReader.java:184) ~[?:1.8.0_292]
-	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:1.8.0_292]
-	at java.io.BufferedReader.readLine(BufferedReader.java:324) ~[?:1.8.0_292]
-	at java.io.BufferedReader.readLine(BufferedReader.java:389) ~[?:1.8.0_292]
-	at aak$1.run(SourceFile:98) [server.jar:?]
+[16:30:17] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:30:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:30:18] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:30:18] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:30:18] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:30:18] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:30:18] [main/INFO]: Reloading ResourceManager: Default
+[16:30:20] [Worker-Main-4/INFO]: Loaded 7 recipes
+[16:30:21] [Worker-Main-4/INFO]: Loaded 1127 advancements
+[16:30:23] [Server thread/INFO]: Starting minecraft server version 21w18a
+[16:30:23] [Server thread/INFO]: Loading properties
+[16:30:23] [Server thread/INFO]: Default game type: SURVIVAL
+[16:30:23] [Server thread/INFO]: Generating keypair
+[16:30:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:30:24] [Server thread/INFO]: Using epoll channel type
+[16:30:24] [Server thread/INFO]: Preparing level "world"
+[16:30:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:30:27] [Server thread/INFO]: Preparing spawn area: 0%
+[16:30:27] [Server thread/INFO]: Preparing spawn area: 0%
+[16:30:27] [Server thread/INFO]: Preparing spawn area: 0%
+[16:30:27] [Server thread/INFO]: Preparing spawn area: 0%
+[16:30:27] [Server thread/INFO]: Preparing spawn area: 0%
+[16:30:27] [Server thread/INFO]: Preparing spawn area: 0%
+[16:30:27] [Server thread/INFO]: Preparing spawn area: 0%
+[16:30:28] [Server thread/INFO]: Preparing spawn area: 0%
+[16:30:28] [Server thread/INFO]: Preparing spawn area: 40%
+[16:30:29] [Server thread/INFO]: Time elapsed: 4823 ms
+[16:30:29] [Server thread/INFO]: Done (5.054s)! For help, type "help"
+[16:30:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[16:31:04] [Server thread/INFO]: Stopping the server
+[16:31:04] [Server thread/INFO]: Stopping server
+[16:31:04] [Server thread/INFO]: Saving players
+[16:31:04] [Server thread/INFO]: Saving worlds
+[16:31:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:31:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:31:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:31:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:31:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:31:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:31:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:31:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:31:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
