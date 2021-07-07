@@ -3781,12 +3781,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/bundle": {
-    "criteria": {
-      "has_string": "2020-11-11 07:01:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_leggings": "2020-11-13 00:06:42 +0000"
@@ -4609,5 +4603,5 @@
     },
     "done": true
   },
-  "DataVersion": 2713
+  "DataVersion": 2724
 }
